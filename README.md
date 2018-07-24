@@ -53,6 +53,7 @@ INSERT INTO `geografia`.`Cidades` (`id_cidade`, `nome`, `geo_latitude`, `geo_lon
 <h3>Download</h3>
 <a href="https://github.com/izaquiellbessas/Base-Geopolitica/archive/master.zip"> Clique aqui para fazer download completo do projeto. </a>
 
+<h4>Contribuir</h4>
 <p>
 Você pode contribuir com o projeto com sugestões de melhorias e atualizações, ou corrigindo eventuais erros. Para tanto abra uma Issue ou dê um Pull request.
 </p>
