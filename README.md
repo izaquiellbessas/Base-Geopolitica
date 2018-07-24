@@ -57,3 +57,5 @@ INSERT INTO `geografia`.`Cidades` (`id_cidade`, `nome`, `geo_latitude`, `geo_lon
 <p>
 Você pode contribuir com o projeto com sugestões de melhorias e atualizações, ou corrigindo eventuais erros. Para tanto abra uma Issue ou dê um Pull request.
 </p>
+
+Bandeiras: http://flagpedia.net
