@@ -22,43 +22,33 @@ O projeto visa ainda a criação de uma tabela de bairros e endereços com CEP. 
 O Script de criação do Banco de Dados com os dados para povoá-lo é muito grande para ser exibido atualmente pelo Github, aqui vai alguns exemplos de conteúdos que são inseridos:
 <h3>Países</h3>
 <code>
-INSERT INTO `geografia`.`Paises` (`nome`, `iso_alpha2`, `iso_alpha3`, `iso_numero`) VALUES ('Chade', 'TD', ' TCD', ' 148');</code><code>
-INSERT INTO `geografia`.`Paises` (`nome`, `iso_alpha2`, `iso_alpha3`, `iso_numero`) VALUES ('Chile', 'CL', ' CHL', ' 152');</code><code>
-INSERT INTO `geografia`.`Paises` (`nome`, `iso_alpha2`, `iso_alpha3`, `iso_numero`) VALUES ('China', 'CN', ' CHN', ' 156');
+INSERT INTO `geografia`.`Paises` (`nome`, `iso_alpha2`, `iso_alpha3`, `iso_numero`) VALUES ('Chile', 'CL', ' CHL', ' 152');
 </code>
 
 <h3>Estados</h3>
 <code>
-INSERT INTO `geografia`.`Estados` (`id_estado`, `nome`, `sigla_uf`, `fk_pais`) VALUES (13, 'Amazonas', 'AM', 'BRA');</code><code>
-INSERT INTO `geografia`.`Estados` (`id_estado`, `nome`, `sigla_uf`, `fk_pais`) VALUES (14, 'Roraima', 'RR', 'BRA');</code><code>
-INSERT INTO `geografia`.`Estados` (`id_estado`, `nome`, `sigla_uf`, `fk_pais`) VALUES (15, 'Pará', 'PA', 'BRA');
+INSERT INTO `geografia`.`Estados` (`id_estado`, `nome`, `sigla_uf`, `fk_pais`) VALUES (13, 'Amazonas', 'AM', 'BRA');
 </code>
 
 <h3>Regiões</h3>
 <code>
-INSERT INTO `geografia`.`Regioes` (`id_regiao`, `nome`) VALUES (1, 'SUL');</code><code>
-INSERT INTO `geografia`.`Regioes` (`id_regiao`, `nome`) VALUES (2, 'SUDESTE');</code><code>
-INSERT INTO `geografia`.`Regioes` (`id_regiao`, `nome`) VALUES (3, 'NORTE');
+INSERT INTO `geografia`.`Regioes` (`id_regiao`, `nome`) VALUES (1, 'SUL');
 </code>
 
 <h3>Mesorregiões</h3>
 <code>
-INSERT INTO `geografia`.`Mesorregioes` (`id_mesorregiao`, `nome`, `fk_id_regiao`) VALUES (88, 'Petrópolis', 2);</code><code>
-INSERT INTO `geografia`.`Mesorregioes` (`id_mesorregiao`, `nome`, `fk_id_regiao`) VALUES (92, 'Porto Alegre', 1);</code><code>
-INSERT INTO `geografia`.`Mesorregioes` (`id_mesorregiao`, `nome`, `fk_id_regiao`) VALUES (93, 'Porto Velho', 3);
+INSERT INTO `geografia`.`Mesorregioes` (`id_mesorregiao`, `nome`, `fk_id_regiao`) VALUES (88, 'Petrópolis', 2);
 </code>
 
 <h3>Microrregiões</h3>
 <code>
-INSERT INTO `geografia`.`Microrregioes` (`id_micrroregiao`, `nome`, `fk_id_mesoregiao`) VALUES (43, 'Araxá', 127);</code><code>
-INSERT INTO `geografia`.`Microrregioes` (`id_micrroregiao`, `nome`, `fk_id_mesoregiao`) VALUES (49, 'Bacabal', 108);</code><code>
-INSERT INTO `geografia`.`Microrregioes` (`id_micrroregiao`, `nome`, `fk_id_mesoregiao`) VALUES (51, 'Balsas', 53);
+INSERT INTO `geografia`.`Microrregioes` (`id_micrroregiao`, `nome`, `fk_id_mesoregiao`) VALUES (43, 'Araxá', 127);
 </code>
 
 <h3>Cidades</h3>
 <code>
-INSERT INTO `geografia`.`Cidades` (`id_cidade`, `nome`, `geo_latitude`, `geo_longitude`, `geo_altitude`, `codigo_ibge`, `fk_id_microrregiao`, `fk_id_estado`) VALUES (2336, 'Goianá', '-21.532417827654701', '-43.191482396977896', '407.61561499999999', 3127388, 251, 31);</code><code>
-INSERT INTO `geografia`.`Cidades` (`id_cidade`, `nome`, `geo_latitude`, `geo_longitude`, `geo_altitude`, `codigo_ibge`, `fk_id_microrregiao`, `fk_id_estado`) VALUES (2337, 'Gonçalves', '-22.657619187118701', '-45.856592038467099', '1262.9240870000001', 3127404, 216, 31);
+INSERT INTO `geografia`.`Cidades` (`id_cidade`, `nome`, `geo_latitude`, `geo_longitude`, `geo_altitude`, `codigo_ibge`, `fk_id_microrregiao`, `fk_id_estado`) VALUES (2336, 'Goianá', '-21.532417827654701', '-43.191482396977896', '407.61561499999999', 3127388, 251, 31);
 </code>
+<br>
 
 Você pode contribuir com o projeto com sugestões de melhorias e atualizações, ou corrigindo eventuais erros. Para tanto abra uma Issue ou dê um Pull request.
