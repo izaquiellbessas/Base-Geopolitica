@@ -15,3 +15,7 @@ O projeto já conta com um banco de dados populado que disponibiliza:
   <li> Subrregiões brasileiras, chamadas de mesorregiões (as quais estão contidas nas Regiões) e microrregiões (que por sua vez estão contidas nas Mesorregiões).
   <li> Cidades brasileiras, com latitude, longitude, altitude, código IBGE e seus relacionamentos com as Microrregiões e Estados. </li>
 </ol>
+
+Todo o conteúdo que povoa o banco de dados foi fruto de mineiração de dados disponibilizados publicamente na internet. A maior parte das informações sobre cidades, estados e regiões brasileiras foi obtida no site do IBGE.
+
+O projeto visa ainda a criação de uma tabela de bairros e endereços com CEP. Contudo, há um projeto que disponibiliza consulta gratuíta via API que retorna arquivo JSON com tal conteúdo no link: http://www.cepaberto.com/api_key
