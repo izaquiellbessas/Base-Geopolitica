@@ -59,3 +59,9 @@ Você pode contribuir com o projeto com sugestões de melhorias e atualizações
 </p>
 
 Bandeiras: http://flagpedia.net
+
+<h4>Versões</h4>
+<ol>
+  <li>MySQL Server: 5.7.21</li>
+  <li>MySQL Workbench: 6.3.10</li>
+</ol>
