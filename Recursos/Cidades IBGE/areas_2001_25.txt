@@ -1,0 +1,238 @@
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA
+RESOLUÇÃO Nº 05 , DE 10 DE OUTUBRO DE 2002
+Área Territorial :
+UF – Paraíba – PB - 25
+MUNICÍPIO CODMUNIC ÁREA (km²)
+PARAÍBA 56.439,838
+Água Branca 2500106 220,648
+Aguiar 2500205 344,691
+Alagoa Grande 2500304 320,558
+Alagoa Nova 2500403 122,254
+Alagoinha 2500502 85,060
+Alcantil 2500536 305,391
+Algodão de Jandaíra 2500577 220,246
+Alhandra 2500601 182,656
+Amparo 2500734 121,983
+Aparecida 2500775 229,153
+Araçagi 2500809 229,722
+Arara 2500908 88,858
+Araruna 2501005 245,720
+Areia 2501104 269,424
+Areia de Baraúnas 2501153 96,342
+Areial 2501203 33,935
+Aroeiras 2501302 374,674
+Assunção 2501351 126,427
+Baía da Traição 2501401 102,364
+Bananeiras 2501500 257,981
+Baraúna 2501534 50,577
+Barra de Santa Rosa 2501609 825,097
+Barra de Santana 2501575 369,290
+Barra de São Miguel 2501708 595,205
+Bayeux 2501807 31,784
+Belém 2501906 100,143
+Belém do Brejo do Cruz 2502003 603,038
+Bernardino Batista 2502052 50,628
+Boa Ventura 2502102 132,136
+Boa Vista 2502151 476,539
+Bom Jesus 2502201 47,421
+Bom Sucesso 2502300 184,101
+Bonito de Santa Fé 2502409 228,326
+Boqueirão 2502508 424,646
+Borborema 2502706 25,984
+Brejo do Cruz 2502805 398,917
+Brejo dos Santos 2502904 93,848
+Caaporã 2503001 150,168
+Cabaceiras 2503100 400,222
+Cabedelo 2503209 31,265
+Cachoeira dos Índios 2503308 172,906
+Cacimba de Areia 2503407 233,037
+Cacimba de Dentro 2503506 181,221
+Cacimbas 2503555 142,926
+Caiçara 2503605 127,911
+Cajazeiras 2503704 586,275
+Cajazeirinhas 2503753 287,891
+Caldas Brandão 2503803 55,853
+Camalaú 2503902 603,060
+Campina Grande 2504009 620,628
+Campo de Santana 2516409 246,656
+Capim 2504033 78,165
+Caraúbas 2504074 445,575
+Carrapateira 2504108 72,778
+Casserengue 2504157 201,379
+Catingueira 2504207 529,456
+Catolé do Rocha 2504306 552,098
+Área Territorial :
+UF – Paraíba – PB - 25
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Caturité 2504355 118,089
+Conceição 2504405 579,432
+Condado 2504504 280,913
+Conde 2504603 172,949
+Congo 2504702 274,075
+Coremas 2504801 379,491
+Coxixola 2504850 119,059
+Cruz do Espírito Santo 2504900 195,596
+Cubati 2505006 136,965
+Cuité 2505105 735,334
+Cuité de Mamanguape 2505238 109,806
+Cuitegi 2505204 39,302
+Curral de Cima 2505279 85,096
+Curral Velho 2505303 180,585
+Damião 2505352 109,760
+Desterro 2505402 179,388
+Diamante 2505600 269,109
+Dona Inês 2505709 132,445
+Duas Estradas 2505808 26,361
+Emas 2505907 240,898
+Esperança 2506004 165,189
+Fagundes 2506103 162,101
+Frei Martinho 2506202 244,315
+Gado Bravo 2506251 192,424
+Guarabira 2506301 180,764
+Gurinhém 2506400 309,276
+Gurjão 2506509 343,214
+Ibiara 2506608 244,480
+Igaracy 2502607 192,258
+Imaculada 2506707 399,409
+Ingá 2506806 287,969
+Itabaiana 2506905 218,847
+Itaporanga 2507002 468,069
+Itapororoca 2507101 146,067
+Itatuba 2507200 244,205
+Jacaraú 2507309 253,206
+Jericó 2507408 179,311
+João Pessoa 2507507 210,551
+Juarez Távora 2507606 82,593
+Juazeirinho 2507705 467,526
+Junco do Seridó 2507804 170,415
+Juripiranga 2507903 78,761
+Juru 2508000 403,276
+Lagoa 2508109 177,900
+Lagoa de Dentro 2508208 84,505
+Lagoa Seca 2508307 109,342
+Lastro 2508406 102,668
+Livramento 2508505 283,155
+Logradouro 2508554 37,996
+Lucena 2508604 89,202
+Mãe d'Água 2508703 177,250
+Malta 2508802 156,242
+Mamanguape 2508901 348,745
+Manaíra 2509008 352,566
+Marcação 2509057 122,897
+Mari 2509107 154,726
+Marizópolis 2509156 63,609
+Massaranduba 2509206 205,941
+Mataraca 2509305 174,398
+Matinhas 2509339 38,123
+Mato Grosso 2509370 83,521
+Área Territorial :
+UF – Paraíba – PB - 25
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Maturéia 2509396 83,714
+Mogeiro 2509404 218,993
+Montadas 2509503 25,924
+Monte Horebe 2509602 116,172
+Monteiro 2509701 986,370
+Mulungu 2509800 192,211
+Natuba 2509909 192,166
+Nazarezinho 2510006 173,244
+Nova Floresta 2510105 58,839
+Nova Olinda 2510204 84,253
+Nova Palmeira 2510303 310,348
+Olho d'Água 2510402 596,123
+Olivedos 2510501 317,900
+Ouro Velho 2510600 129,399
+Parari 2510659 128,483
+Passagem 2510709 111,875
+Patos 2510808 512,791
+Paulista 2510907 576,880
+Pedra Branca 2511004 193,733
+Pedra Lavrada 2511103 351,688
+Pedras de Fogo 2511202 401,120
+Pedro Régis 2512721 73,362
+Piancó 2511301 564,730
+Picuí 2511400 665,570
+Pilar 2511509 101,262
+Pilões 2511608 64,447
+Pilõezinhos 2511707 43,900
+Pirpirituba 2511806 79,849
+Pitimbu 2511905 136,045
+Pocinhos 2512002 629,521
+Poço Dantas 2512036 97,249
+Poço de José de Moura 2512077 97,888
+Pombal 2512101 888,811
+Prata 2512200 192,012
+Princesa Isabel 2512309 368,067
+Puxinanã 2512408 73,673
+Queimadas 2512507 409,196
+Quixabá 2512606 116,946
+Remígio 2512705 178,064
+Riachão 2512747 90,150
+Riachão do Bacamarte 2512754 38,369
+Riachão do Poço 2512762 39,067
+Riacho de Santo Antônio 2512788 91,322
+Riacho dos Cavalos 2512804 264,027
+Rio Tinto 2512903 466,397
+Salgadinho 2513000 184,237
+Salgado de São Félix 2513109 196,092
+Santa Cecília 2513158 227,838
+Santa Cruz 2513208 210,152
+Santa Helena 2513307 210,317
+Santa Inês 2513356 324,422
+Santa Luzia 2513406 455,702
+Santa Rita 2513703 726,565
+Santa Teresinha 2513802 357,942
+Santana de Mangueira 2513505 402,151
+Santana dos Garrotes 2513604 353,813
+Santarém 2513653 74,005
+Santo André 2513851 225,166
+São Bentinho 2513927 195,964
+São Bento 2513901 248,198
+São Domingos de Pombal 2513968 169,103
+Área Territorial :
+UF – Paraíba – PB - 25
+MUNICÍPIO CODMUNIC ÁREA (km²)
+São Domingos do Cariri 2513943 222,159
+São Francisco 2513984 95,054
+São João do Cariri 2514008 701,856
+São João do Rio do Peixe 2500700 474,426
+São João do Tigre 2514107 816,111
+São José da Lagoa Tapada 2514206 304,419
+São José de Caiana 2514305 176,326
+São José de Espinharas 2514404 725,654
+São José de Piranhas 2514503 677,292
+São José de Princesa 2514552 158,021
+São José do Bonfim 2514602 152,135
+São José do Brejo do Cruz 2514651 253,017
+São José do Sabugi 2514701 206,914
+São José dos Cordeiros 2514800 417,744
+São José dos Ramos 2514453 98,229
+São Mamede 2514909 530,724
+São Miguel de Taipu 2515005 92,524
+São Sebastião de Lagoa de Roça 2515104 49,882
+São Sebastião do Umbuzeiro 2515203 460,569
+Sapé 2515302 316,330
+Seridó 2515401 276,460
+Serra Branca 2515500 737,743
+Serra da Raiz 2515609 28,984
+Serra Grande 2515708 83,473
+Serra Redonda 2515807 55,906
+Serraria 2515906 75,397
+Sertãozinho 2515930 32,798
+Sobrado 2515971 63,093
+Solânea 2516003 265,921
+Soledade 2516102 560,062
+Sossêgo 2516151 154,795
+Sousa 2516201 842,487
+Sumé 2516300 838,058
+Taperoá 2516508 639,959
+Tavares 2516607 228,599
+Teixeira 2516706 114,437
+Tenório 2516755 105,270
+Triunfo 2516805 222,947
+Uiraúna 2516904 294,495
+Umbuzeiro 2517001 180,872
+Várzea 2517100 190,444
+Vieirópolis 2517209 146,778
+Vista Serrana 2505501 61,361
+Zabelê 2517407 109,394

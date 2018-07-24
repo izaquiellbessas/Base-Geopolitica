@@ -1,0 +1,151 @@
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA
+RESOLUÇÃO Nº 05 , DE 10 DE OUTUBRO DE 2002
+Área Territorial :
+UF – Tocantins – TO - 17
+MUNICÍPIO CODMUNIC ÁREA (km²)
+TOCANTINS 277.620,914
+Abreulândia 1700251 1.895,201
+Aguiarnópolis 1700301 235,391
+Aliança do Tocantins 1700350 1.579,742
+Almas 1700400 4.021,111
+Alvorada 1700707 1.212,161
+Ananás 1701002 1.587,000
+Angico 1701051 438,703
+Aparecida do Rio Negro 1701101 1.160,363
+Aragominas 1701309 1.173,026
+Araguacema 1701903 2.778,452
+Araguaçu 1702000 5.167,886
+Araguaína 1702109 4.000,395
+Araguanã 1702158 834,701
+Araguatins 1702208 2.627,280
+Arapoema 1702307 1.552,207
+Arraias 1702406 5.786,844
+Augustinópolis 1702554 414,370
+Aurora do Tocantins 1702703 752,826
+Axixá do Tocantins 1702901 150,214
+Babaçulândia 1703008 1.788,442
+Bandeirantes do Tocantins 1703057 1.672,322
+Barra do Ouro 1703073 1.106,339
+Barrolândia 1703107 713,297
+Bernardo Sayão 1703206 926,884
+Bom Jesus do Tocantins 1703305 1.332,665
+Brasilândia do Tocantins 1703602 641,464
+Brejinho de Nazaré 1703701 1.724,441
+Buriti do Tocantins 1703800 249,906
+Cachoeirinha 1703826 352,343
+Campos Lindos 1703842 3.240,156
+Cariri do Tocantins 1703867 1.128,596
+Carmolândia 1703883 339,401
+Carrasco Bonito 1703891 195,017
+Caseara 1703909 1.691,612
+Centenário 1704105 1.954,688
+Chapada da Natividade 1705102 1.671,256
+Chapada de Areia 1704600 659,244
+Colinas do Tocantins 1705508 843,840
+Colméia 1716703 990,712
+Combinado 1705557 209,613
+Conceição do Tocantins 1705607 2.500,733
+Couto de Magalhães 1706001 1.585,773
+Cristalândia 1706100 1.848,231
+Crixás do Tocantins 1706258 986,689
+Darcinópolis 1706506 1.548,890
+Dianópolis 1707009 3.217,179
+Divinópolis do Tocantins 1707108 2.347,421
+Dois Irmãos do Tocantins 1707207 3.757,015
+Dueré 1707306 3.424,836
+Esperantina 1707405 504,019
+Fátima 1707553 382,908
+Figueirópolis 1707652 1.930,064
+Filadélfia 1707702 1.988,068
+Formoso do Araguaia 1708205 13.423,256
+Fortaleza do Tabocão 1708254 621,558
+Goianorte 1708304 1.800,974
+Goiatins 1709005 6.408,562
+Guaraí 1709302 2.268,147
+Área Territorial :
+UF – Tocantins – TO - 17
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Gurupi 1709500 1.836,081
+Ipueiras 1709807 815,250
+Itacajá 1710508 3.051,341
+Itaguatins 1710706 739,846
+Itapiratins 1710904 1.243,954
+Itaporã do Tocantins 1711100 918,916
+Jaú do Tocantins 1711506 2.173,038
+Juarina 1711803 481,046
+Lagoa da Confusão 1711902 10.564,512
+Lagoa do Tocantins 1711951 911,336
+Lajeado 1712009 322,481
+Lavandeira 1712157 519,569
+Lizarda 1712405 5.723,201
+Luzinópolis 1712454 279,562
+Marianópolis do Tocantins 1712504 2.091,364
+Mateiros 1712702 9.591,543
+Maurilândia do Tocantins 1712801 738,101
+Miracema do Tocantins 1713205 2.656,078
+Miranorte 1713304 1.031,616
+Monte do Carmo 1713601 3.616,655
+Monte Santo do Tocantins 1713700 1.091,548
+Palmeiras do Tocantins 1713809 747,895
+Muricilândia 1713957 1.187,798
+Natividade 1714203 3.215,903
+Nazaré 1714302 395,903
+Nova Olinda 1714880 1.566,237
+Nova Rosalândia 1715002 488,636
+Novo Acordo 1715101 2.671,882
+Novo Alegre 1715150 200,105
+Novo Jardim 1715259 1.309,658
+Oliveira de Fátima 1715507 205,849
+Palmas 1721000 2.218,934
+Palmeirante 1715705 2.640,738
+Palmeirópolis 1715754 1.703,936
+Paraíso do Tocantins 1716109 1.297,018
+Paranã 1716208 11.260,151
+Pau d'Arco 1716307 1.300,970
+Pedro Afonso 1716505 2.010,892
+Peixe 1716604 5.291,182
+Pequizeiro 1716653 1.209,798
+Pindorama do Tocantins 1717008 1.559,080
+Piraquê 1717206 921,585
+Pium 1717503 10.012,666
+Ponte Alta do Bom Jesus 1717800 1.806,132
+Ponte Alta do Tocantins 1717909 6.491,089
+Porto Alegre do Tocantins 1718006 501,970
+Porto Nacional 1718204 4.449,892
+Praia Norte 1718303 289,052
+Presidente Kennedy 1718402 770,418
+Pugmil 1718451 401,689
+Recursolândia 1718501 2.216,650
+Riachinho 1718550 610,726
+Rio da Conceição 1718659 771,112
+Rio dos Bois 1718709 845,062
+Rio Sono 1718758 6.357,117
+Sampaio 1718808 200,813
+Sandolândia 1718840 3.528,609
+Santa Fé do Araguaia 1718865 1.676,945
+Santa Maria do Tocantins 1718881 1.410,446
+Santa Rita do Tocantins 1718899 3.274,930
+Santa Rosa do Tocantins 1718907 1.796,248
+Santa Tereza do Tocantins 1719004 539,908
+Área Territorial :
+UF – Tocantins – TO - 17
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Santa Terezinha do Tocantins 1720002 269,676
+São Bento do Tocantins 1720101 1.105,893
+São Félix do Tocantins 1720150 1.908,669
+São Miguel do Tocantins 1720200 398,817
+São Salvador do Tocantins 1720259 1.422,025
+São Sebastião do Tocantins 1720309 287,271
+São Valério da Natividade 1720499 2.519,572
+Silvanópolis 1720655 1.258,824
+Sítio Novo do Tocantins 1720804 324,102
+Sucupira 1720853 1.025,515
+Taguatinga 1720903 2.437,386
+Taipas do Tocantins 1720937 1.116,195
+Talismã 1720978 2.156,892
+Tocantínia 1721109 2.601,587
+Tocantinópolis 1721208 1.077,066
+Tupirama 1721257 712,202
+Tupiratins 1721307 895,302
+Wanderlândia 1722081 1.373,055
+Xambioá 1722107 1.633,769

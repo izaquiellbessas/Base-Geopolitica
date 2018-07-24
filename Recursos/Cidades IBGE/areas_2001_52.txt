@@ -1,0 +1,264 @@
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA
+RESOLUÇÃO Nº 05 , DE 10 DE OUTUBRO DE 2002
+Área Territorial:
+UF – Goiás – GO - 52
+MUNICÍPIO CODMUNIC ÁREA (km²)
+GOIÁS 340.086,698
+Abadia de Goiás 5200050 146,458
+Abadiânia 5200100 1.044,159
+Acreúna 5200134 1.565,989
+Adelândia 5200159 115,353
+Água Fria de Goiás 5200175 2.029,406
+Água Limpa 5200209 452,856
+Águas Lindas de Goiás 5200258 191,198
+Alexânia 5200308 847,891
+Aloândia 5200506 102,160
+Alto Horizonte 5200555 503,762
+Alto Paraíso de Goiás 5200605 2.593,885
+Alvorada do Norte 5200803 1.259,495
+Amaralina 5200829 1.412,909
+Americano do Brasil 5200852 133,562
+Amorinópolis 5200902 408,524
+Anápolis 5201108 918,375
+Anhanguera 5201207 56,642
+Anicuns 5201306 961,608
+Aparecida de Goiânia 5201405 288,465
+Aparecida do Rio Doce 5201454 602,288
+Aporé 5201504 2.900,344
+Araçu 5201603 153,599
+Aragarças 5201702 711,649
+Aragoiânia 5201801 218,755
+Araguapaz 5202155 2.193,692
+Arenópolis 5202353 1.074,591
+Aruanã 5202502 3.050,303
+Aurilândia 5202601 565,152
+Avelinópolis 5202809 164,040
+Baliza 5203104 1.782,592
+Barro Alto 5203203 1.093,243
+Bela Vista de Goiás 5203302 1.276,617
+Bom Jardim de Goiás 5203401 1.850,738
+Bom Jesus de Goiás 5203500 1.405,218
+Bonfinópolis 5203559 122,257
+Bonópolis 5203575 1.628,479
+Brazabrantes 5203609 123,548
+Britânia 5203807 1.461,181
+Buriti Alegre 5203906 897,394
+Buriti de Goiás 5203939 199,291
+Buritinópolis 5203962 268,115
+Cabeceiras 5204003 1.127,601
+Cachoeira Alta 5204102 1.654,343
+Cachoeira de Goiás 5204201 415,730
+Cachoeira Dourada 5204250 521,130
+Caçu 5204300 2.251,098
+Caiapônia 5204409 8.653,189
+Caldas Novas 5204508 1.589,518
+Caldazinha 5204557 311,687
+Campestre de Goiás 5204607 273,816
+Campinaçu 5204656 1.974,367
+Campinorte 5204706 1.068,274
+Campo Alegre de Goiás 5204805 2.463,014
+Campo Limpo de Goiás 5204854 156,202
+Campos Belos 5204904 724,060
+Campos Verdes 5204953 441,702
+Carmo do Rio Verde 5205000 455,924
+Área Territorial:
+UF – Goiás – GO - 52
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Castelândia 5205059 297,428
+Catalão 5205109 3.777,652
+Caturaí 5205208 207,154
+Cavalcante 5205307 6.953,646
+Ceres 5205406 213,497
+Cezarina 5205455 415,809
+Chapadão do Céu 5205471 2.354,822
+Cidade Ocidental 5205497 388,162
+Cocalzinho de Goiás 5205513 1.787,994
+Colinas do Sul 5205521 1.708,215
+Córrego do Ouro 5205703 462,302
+Corumbá de Goiás 5205802 1.062,457
+Corumbaíba 5205901 1.881,712
+Cristalina 5206206 6.160,722
+Cristianópolis 5206305 225,357
+Crixás 5206404 4.661,077
+Cromínia 5206503 369,917
+Cumari 5206602 579,877
+Damianópolis 5206701 415,349
+Damolândia 5206800 84,632
+Davinópolis 5206909 520,040
+Diorama 5207105 687,339
+Divinópolis de Goiás 5208301 831,134
+Doverlândia 5207253 3.207,543
+Edealina 5207352 603,652
+Edéia 5207402 1.461,519
+Estrela do Norte 5207501 301,641
+Faina 5207535 1.944,953
+Fazenda Nova 5207600 1.281,316
+Firminópolis 5207808 406,109
+Flores de Goiás 5207907 3.709,419
+Formosa 5208004 5.806,891
+Formoso 5208103 844,285
+Gameleira de Goiás 5208152 595,316
+Goianápolis 5208400 162,380
+Goiandira 5208509 560,707
+Goianésia 5208608 1.547,650
+Goiânia 5208707 739,492
+Goianira 5208806 200,402
+Goiás 5208905 3.108,008
+Goiatuba 5209101 2.475,107
+Gouvelândia 5209150 830,770
+Guapó 5209200 517,005
+Guaraíta 5209291 205,306
+Guarani de Goiás 5209408 1.229,122
+Guarinos 5209457 595,865
+Heitoraí 5209606 229,666
+Hidrolândia 5209705 944,238
+Hidrolina 5209804 580,386
+Iaciara 5209903 1.625,284
+Inaciolândia 5209937 688,398
+Indiara 5209952 956,473
+Inhumas 5210000 613,349
+Ipameri 5210109 4.368,688
+Ipiranga de Goiás 5210158 241,464
+Iporá 5210208 1.026,387
+Israelândia 5210307 577,480
+Itaberaí 5210406 1.471,173
+Itaguari 5210562 135,525
+Itaguaru 5210604 239,936
+Itajá 5210802 2.091,394
+Itapaci 5210901 956,126
+Área Territorial:
+UF – Goiás – GO - 52
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Itapirapuã 5211008 2.043,699
+Itapuranga 5211206 1.277,160
+Itarumã 5211305 3.433,619
+Itauçu 5211404 383,682
+Itumbiara 5211503 2.461,280
+Ivolândia 5211602 1.262,837
+Jandaia 5211701 864,104
+Jaraguá 5211800 1.888,938
+Jataí 5211909 7.174,217
+Jaupaci 5212006 527,200
+Jesúpolis 5212055 120,919
+Joviânia 5212105 454,884
+Jussara 5212204 4.092,456
+Lagoa Santa 5212253 458,865
+Leopoldo de Bulhões 5212303 495,015
+Luziânia 5212501 3.961,536
+Mairipotaba 5212600 460,975
+Mambaí 5212709 859,555
+Mara Rosa 5212808 1.703,948
+Marzagão 5212907 228,091
+Matrinchã 5212956 1.150,891
+Maurilândia 5213004 393,793
+Mimoso de Goiás 5213053 1.386,910
+Minaçu 5213087 2.860,719
+Mineiros 5213103 8.896,304
+Moiporá 5213400 460,623
+Monte Alegre de Goiás 5213509 3.119,791
+Montes Claros de Goiás 5213707 2.899,177
+Montividiu 5213756 1.874,611
+Montividiu do Norte 5213772 1.332,991
+Morrinhos 5213806 2.846,191
+Morro Agudo de Goiás 5213855 282,615
+Mossâmedes 5213905 684,451
+Mozarlândia 5214002 1.734,359
+Mundo Novo 5214051 2.146,649
+Mutunópolis 5214101 869,033
+Nazário 5214408 300,089
+Nerópolis 5214507 204,216
+Niquelândia 5214606 9.843,170
+Nova América 5214705 212,023
+Nova Aurora 5214804 302,660
+Nova Crixás 5214838 7.298,795
+Nova Glória 5214861 412,975
+Nova Iguaçu de Goiás 5214879 628,441
+Nova Roma 5214903 2.135,945
+Nova Veneza 5215009 123,376
+Novo Brasil 5215207 649,954
+Novo Gama 5215231 191,675
+Novo Planalto 5215256 1.242,639
+Orizona 5215306 1.972,865
+Ouro Verde de Goiás 5215405 209,679
+Ouvidor 5215504 413,786
+Padre Bernardo 5215603 3.137,903
+Palestina de Goiás 5215652 1.320,683
+Palmeiras de Goiás 5215702 1.539,683
+Palmelo 5215801 58,997
+Palminópolis 5215900 387,693
+Panamá 5216007 433,759
+Paranaiguara 5216304 1.153,786
+Paraúna 5216403 3.781,219
+Perolândia 5216452 1.029,622
+Petrolina de Goiás 5216809 540,451
+Área Territorial:
+UF – Goiás – GO - 52
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Pilar de Goiás 5216908 906,648
+Piracanjuba 5217104 2.405,114
+Piranhas 5217203 2.047,760
+Pirenópolis 5217302 2.227,793
+Pires do Rio 5217401 1.073,369
+Planaltina 5217609 2.539,113
+Pontalina 5217708 1.428,194
+Porangatu 5218003 4.820,485
+Porteirão 5218052 603,917
+Portelândia 5218102 550,646
+Posse 5218300 1.949,632
+Professor Jamil 5218391 347,464
+Quirinópolis 5218508 3.780,173
+Rialma 5218607 268,958
+Rianápolis 5218706 159,345
+Rio Quente 5218789 256,739
+Rio Verde 5218805 8.388,295
+Rubiataba 5218904 748,273
+Sanclerlândia 5219001 496,824
+Santa Bárbara de Goiás 5219100 139,598
+Santa Cruz de Goiás 5219209 1.108,920
+Santa Fé de Goiás 5219258 1.160,800
+Santa Helena de Goiás 5219308 1.127,855
+Santa Isabel 5219357 806,814
+Santa Rita do Araguaia 5219407 1.361,764
+Santa Rita do Novo Destino 5219456 956,037
+Santa Rosa de Goiás 5219506 170,970
+Santa Tereza de Goiás 5219605 794,553
+Santa Terezinha de Goiás 5219704 1.202,195
+Santo Antônio da Barra 5219712 451,596
+Santo Antônio de Goiás 5219738 132,803
+Santo Antônio do Descoberto 5219753 938,309
+São Domingos 5219803 3.295,558
+São Francisco de Goiás 5219902 339,368
+São João d'Aliança 5220009 3.327,364
+São João da Paraúna 5220058 305,357
+São Luís de Montes Belos 5220108 826,189
+São Luíz do Norte 5220157 586,060
+São Miguel do Araguaia 5220207 6.144,380
+São Miguel do Passa Quatro 5220264 537,781
+São Patrício 5220280 134,518
+São Simão 5220405 414,055
+Senador Canedo 5220454 244,745
+Serranópolis 5220504 5.526,526
+Silvânia 5220603 2.264,769
+Simolândia 5220686 347,823
+Sítio d'Abadia 5220702 1.598,337
+Taquaral de Goiás 5221007 201,392
+Teresina de Goiás 5221080 774,635
+Terezópolis de Goiás 5221197 106,976
+Três Ranchos 5221304 282,064
+Trindade 5221403 713,280
+Trombas 5221452 799,123
+Turvânia 5221502 472,346
+Turvelândia 5221551 934,260
+Uirapuru 5221577 1.153,472
+Uruaçu 5221601 2.141,776
+Uruana 5221700 522,127
+Urutaí 5221809 626,717
+Valparaíso de Goiás 5221858 60,111
+Varjão 5221908 519,029
+Vianópolis 5222005 954,279
+Área Territorial:
+UF – Goiás – GO - 52
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Vicentinópolis 5222054 737,251
+Vila Boa 5222203 1.060,170
+Vila Propício 5222302 2.181,575

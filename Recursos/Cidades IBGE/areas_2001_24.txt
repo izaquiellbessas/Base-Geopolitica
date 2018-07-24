@@ -1,0 +1,179 @@
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA
+RESOLUÇÃO Nº 05 , DE 10 DE OUTUBRO DE 2002
+Área Territorial :
+UF – Rio Grande do Norte– RN - 24
+MUNICÍPIO CODMUNIC ÁREA (km²)
+RIO GRANDE DO NORTE 52.796,791
+Acari 2400109 608,565
+Açu 2400208 1.269,235
+Afonso Bezerra 2400307 576,248
+Água Nova 2400406 50,683
+Alexandria 2400505 381,202
+Almino Afonso 2400604 128,029
+Alto do Rodrigues 2400703 191,311
+Angicos 2400802 741,654
+Antônio Martins 2400901 244,620
+Apodi 2401008 1.602,659
+Areia Branca 2401107 357,580
+Arês 2401206 112,584
+Augusto Severo 2401305 896,962
+Baía Formosa 2401404 245,510
+Baraúna 2401453 825,802
+Barcelona 2401503 152,629
+Bento Fernandes 2401602 301,075
+Bodó 2401651 253,513
+Bom Jesus 2401701 122,033
+Brejinho 2401800 58,528
+Caiçara do Norte 2401859 189,495
+Caiçara do Rio do Vento 2401909 261,191
+Caicó 2402006 1.228,574
+Campo Redondo 2402105 213,729
+Canguaretama 2402204 245,529
+Caraúbas 2402303 1.095,001
+Carnaúba dos Dantas 2402402 245,648
+Carnaubais 2402501 529,835
+Ceará-Mirim 2402600 739,686
+Cerro Corá 2402709 393,569
+Coronel Ezequiel 2402808 185,752
+Coronel João Pessoa 2402907 117,140
+Cruzeta 2403004 295,829
+Currais Novos 2403103 864,341
+Doutor Severiano 2403202 108,277
+Encanto 2403301 125,747
+Equador 2403400 264,983
+Espírito Santo 2403509 143,673
+Extremoz 2403608 125,665
+Felipe Guerra 2403707 268,427
+Fernando Pedroza 2403756 322,540
+Florânia 2403806 504,022
+Francisco Dantas 2403905 181,593
+Frutuoso Gomes 2404002 63,278
+Galinhos 2404101 342,442
+Goianinha 2404200 192,277
+Governador Dix-Sept Rosado 2404309 1.129,356
+Grossos 2404408 126,451
+Guamaré 2404507 259,181
+Ielmo Marinho 2404606 305,185
+Ipanguaçu 2404705 374,239
+Ipueira 2404804 127,347
+Itajá 2404853 203,623
+Itaú 2404903 133,032
+Jaçanã 2405009 54,558
+Jandaíra 2405108 435,678
+Janduís 2405207 304,899
+Área Territorial :
+UF – Rio Grande do Norte– RN - 24
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Januário Cicco 2405306 187,211
+Japi 2405405 188,990
+Jardim de Angicos 2405504 254,045
+Jardim de Piranhas 2405603 330,533
+Jardim do Seridó 2405702 368,643
+João Câmara 2405801 714,951
+João Dias 2405900 88,173
+José da Penha 2406007 117,634
+Jucurutu 2406106 933,718
+Jundiá 2406155 45,261
+Lagoa d'Anta 2406205 105,650
+Lagoa de Pedras 2406304 117,660
+Lagoa de Velhos 2406403 112,832
+Lagoa Nova 2406502 176,299
+Lagoa Salgada 2406601 79,515
+Lajes 2406700 676,417
+Lajes Pintadas 2406809 130,208
+Lucrécia 2406908 30,935
+Luís Gomes 2407005 166,637
+Macaíba 2407104 512,487
+Macau 2407203 788,022
+Major Sales 2407252 31,971
+Marcelino Vieira 2407302 345,707
+Martins 2407401 169,466
+Maxaranguape 2407500 131,300
+Messias Targino 2407609 135,094
+Montanhas 2407708 82,213
+Monte Alegre 2407807 199,519
+Monte das Gameleiras 2407906 71,945
+Mossoró 2408003 2.110,207
+Natal 2408102 170,298
+Nísia Floresta 2408201 306,051
+Nova Cruz 2408300 277,657
+Olho-d'Água do Borges 2408409 141,170
+Ouro Branco 2408508 253,300
+Paraná 2408607 81,390
+Paraú 2408706 410,858
+Parazinho 2408805 274,668
+Parelhas 2408904 513,052
+Parnamirim 2403251 120,202
+Passa e Fica 2409100 42,137
+Passagem 2409209 41,235
+Patu 2409308 319,132
+Pau dos Ferros 2409407 259,960
+Pedra Grande 2409506 221,429
+Pedra Preta 2409605 294,979
+Pedro Avelino 2409704 952,688
+Pedro Velho 2409803 192,707
+Pendências 2409902 419,141
+Pilões 2410009 82,691
+Poço Branco 2410108 230,370
+Portalegre 2410207 110,052
+Porto do Mangue 2410256 318,636
+Presidente Juscelino 2410306 167,348
+Pureza 2410405 504,317
+Rafael Fernandes 2410504 78,230
+Rafael Godeiro 2410603 100,073
+Riacho da Cruz 2410702 127,221
+Riacho de Santana 2410801 128,104
+Riachuelo 2410900 262,873
+Área Territorial :
+UF – Rio Grande do Norte– RN - 24
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Rio do Fogo 2408953 150,282
+Rodolfo Fernandes 2411007 154,840
+Ruy Barbosa 2411106 125,813
+Santa Cruz 2411205 624,390
+Santa Maria 2409332 219,572
+Santana do Matos 2411403 1.420,313
+Santana do Seridó 2411429 188,402
+Santo Antônio 2411502 301,052
+São Bento do Norte 2411601 288,637
+São Bento do Trairí 2411700 190,816
+São Fernando 2411809 404,415
+São Francisco do Oeste 2411908 75,550
+São Gonçalo do Amarante 2412005 251,308
+São João do Sabugi 2412104 277,010
+São José de Mipibu 2412203 293,877
+São José do Campestre 2412302 341,103
+São José do Seridó 2412401 174,504
+São Miguel 2412500 171,690
+São Miguel de Touros 2412559 342,445
+São Paulo do Potengi 2412609 240,435
+São Pedro 2412708 195,238
+São Rafael 2412807 469,096
+São Tomé 2412906 862,577
+São Vicente 2413003 197,814
+Senador Elói de Souza 2413102 167,592
+Senador Georgino Avelino 2413201 26,383
+Serra de São Bento 2413300 96,635
+Serra do Mel 2413359 616,509
+Serra Negra do Norte 2413409 562,395
+Serrinha 2413508 193,352
+Serrinha dos Pintos 2413557 122,644
+Severiano Melo 2413607 157,833
+Sítio Novo 2413706 213,470
+Taboleiro Grande 2413805 124,094
+Taipu 2413904 352,818
+Tangará 2414001 356,780
+Tenente Ananias 2414100 223,670
+Tenente Laurentino Cruz 2414159 74,376
+Tibau 2411056 162,402
+Tibau do Sul 2414209 101,793
+Timbaúba dos Batistas 2414308 135,450
+Touros 2414407 839,351
+Triunfo Potiguar 2414456 268,706
+Umarizal 2414506 213,582
+Upanema 2414605 881,806
+Várzea 2414704 67,245
+Venha-Ver 2414753 71,622
+Vera Cruz 2414803 92,117
+Viçosa 2414902 37,905
+Vila Flor 2415008 47,656

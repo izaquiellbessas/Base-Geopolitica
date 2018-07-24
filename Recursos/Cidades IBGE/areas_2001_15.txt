@@ -1,0 +1,155 @@
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA
+RESOLUÇÃO Nº 05 , DE 10 DE OUTUBRO DE 2002
+Área Territorial :
+UF – Pará – PA - 15
+MUNICÍPIO CODMUNIC ÁREA (km²)
+PARÁ 1.247.689,515
+Abaetetuba 1500107 1.610,743
+Abel Figueiredo 1500131 614,252
+Acará 1500206 4.343,772
+Afuá 1500305 8.372,772
+Água Azul do Norte 1500347 7.576,621
+Alenquer 1500404 22.282,075
+Almeirim 1500503 72.960,274
+Altamira 1500602 159.695,938
+Anajás 1500701 6.921,709
+Ananindeua 1500800 185,057
+Anapu 1500859 11.895,212
+Augusto Corrêa 1500909 1.091,043
+Aurora do Pará 1500958 1.811,827
+Aveiro 1501006 17.074,290
+Bagre 1501105 4.397,290
+Baião 1501204 3.758,273
+Bannach 1501253 2.956,633
+Barcarena 1501303 1.310,325
+Belém 1501402 1.064,918
+Belterra 1501451 4.398,346
+Benevides 1501501 187,868
+Bom Jesus do Tocantins 1501576 2.816,425
+Bonito 1501600 587,497
+Bragança 1501709 2.090,234
+Brasil Novo 1501725 6.368,246
+Brejo Grande do Araguaia 1501758 1.187,816
+Breu Branco 1501782 3.943,171
+Breves 1501808 9.550,454
+Bujaru 1501907 1.005,160
+Cachoeira do Arari 1502004 3.102,080
+Cachoeira do Piriá 1501956 2.418,277
+Cametá 1502103 3.081,360
+Canaã dos Carajás 1502152 3.146,608
+Capanema 1502202 614,026
+Capitão Poço 1502301 2.899,532
+Castanhal 1502400 1.029,191
+Chaves 1502509 13.084,879
+Colares 1502608 609,776
+Conceição do Araguaia 1502707 5.829,441
+Concórdia do Pará 1502756 690,942
+Cumaru do Norte 1502764 17.084,907
+Curionópolis 1502772 2.368,698
+Curralinho 1502806 3.617,240
+Curuá 1502855 1.431,104
+Curuçá 1502905 672,614
+Dom Eliseu 1502939 5.267,514
+Eldorado dos Carajás 1502954 2.956,708
+Faro 1503002 11.766,496
+Floresta do Araguaia 1503044 3.444,251
+Garrafão do Norte 1503077 1.604,355
+Goianésia do Pará 1503093 7.021,191
+Gurupá 1503101 8.540,032
+Igarapé-Açu 1503200 785,976
+Igarapé-Miri 1503309 1.996,823
+Inhangapi 1503408 471,145
+Ipixuna do Pará 1503457 5.216,948
+Irituia 1503507 1.379,523
+Área Territorial :
+UF – Pará – PA - 15
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Itaituba 1503606 62.040,947
+Itupiranga 1503705 7.879,995
+Jacareacanga 1503754 53.303,089
+Jacundá 1503804 2.008,404
+Juruti 1503903 8.303,966
+Limoeiro do Ajuru 1504000 1.490,172
+Mãe do Rio 1504059 469,488
+Magalhães Barata 1504109 324,788
+Marabá 1504208 15.092,268
+Maracanã 1504307 780,724
+Marapanim 1504406 791,959
+Marituba 1504422 103,279
+Medicilândia 1504455 8.272,583
+Melgaço 1504505 6.773,975
+Mocajuba 1504604 870,800
+Moju 1504703 9.093,850
+Monte Alegre 1504802 21.703,027
+Muaná 1504901 3.765,524
+Nova Esperança do Piriá 1504950 2.809,984
+Nova Ipixuna 1504976 1.600,317
+Nova Timboteua 1505007 489,859
+Novo Progresso 1505031 38.162,317
+Novo Repartimento 1505064 15.398,627
+Óbidos 1505106 28.021,287
+Oeiras do Pará 1505205 3.852,256
+Oriximiná 1505304 107.602,992
+Ourém 1505403 562,133
+Ourilândia do Norte 1505437 13.826,010
+Pacajá 1505486 11.832,183
+Palestina do Pará 1505494 983,885
+Paragominas 1505502 19.330,519
+Parauapebas 1505536 7.007,737
+Pau d'Arco 1505551 1.671,413
+Peixe-Boi 1505601 450,288
+Piçarra 1505635 3.312,485
+Placas 1505650 7.173,154
+Ponta de Pedras 1505700 3.365,126
+Portel 1505809 25.384,779
+Porto de Moz 1505908 17.422,876
+Prainha 1506005 12.599,481
+Primavera 1506104 258,598
+Quatipuru 1506112 324,252
+Redenção 1506138 3.823,787
+Rio Maria 1506161 4.114,601
+Rondon do Pará 1506187 8.246,634
+Rurópolis 1506195 7.021,294
+Salinópolis 1506203 217,856
+Salvaterra 1506302 1.043,504
+Santa Bárbara do Pará 1506351 278,151
+Santa Cruz do Arari 1506401 1.074,854
+Santa Isabel do Pará 1506500 717,615
+Santa Luzia do Pará 1506559 1.350,772
+Santa Maria das Barreiras 1506583 10.330,170
+Santa Maria do Pará 1506609 457,717
+Santana do Araguaia 1506708 11.591,452
+Santarém 1506807 22.887,080
+Santarém Novo 1506906 229,507
+Santo Antônio do Tauá 1507003 537,627
+São Caetano de Odivelas 1507102 748,694
+São Domingos do Araguaia 1507151 1.392,326
+São Domingos do Capim 1507201 1.677,080
+Área Territorial :
+UF – Pará – PA - 15
+MUNICÍPIO CODMUNIC ÁREA (km²)
+São Félix do Xingu 1507300 84.212,426
+São Francisco do Pará 1507409 479,558
+São Geraldo do Araguaia 1507458 3.269,541
+São João da Ponta 1507466 195,987
+São João de Pirabas 1507474 701,896
+São João do Araguaia 1507508 1.280,010
+São Miguel do Guamá 1507607 1.110,149
+São Sebastião da Boa Vista 1507706 1.632,218
+Sapucaia 1507755 1.298,180
+Senador José Porfírio 1507805 14.374,090
+Soure 1507904 3.512,863
+Tailândia 1507953 4.430,190
+Terra Alta 1507961 206,412
+Terra Santa 1507979 1.900,570
+Tomé-Açu 1508001 5.145,325
+Tracuateua 1508035 852,219
+Trairão 1508050 11.991,015
+Tucumã 1508084 2.512,583
+Tucuruí 1508100 2.086,170
+Ulianópolis 1508126 5.081,069
+Uruará 1508159 10.791,315
+Vigia 1508209 533,855
+Viseu 1508308 4.904,138
+Vitória do Xingu 1508357 2.966,329
+Xinguara 1508407 3.779,412

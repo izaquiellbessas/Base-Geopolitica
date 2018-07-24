@@ -1,0 +1,104 @@
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA
+RESOLUÇÃO Nº 05 , DE 10 DE OUTUBRO DE 2002
+Área Territorial
+UF – Rio de Janeiro – RJ - 33
+MUNICÍPIO CODMUNIC ÁREA (km²)
+RIO DE JANEIRO 43.696,054
+Angra dos Reis 3300100 800,430
+Aperibé 3300159 88,780
+Araruama 3300209 633,795
+Areal 3300225 111,494
+Armação dos Búzios 3300233 69,287
+Arraial do Cabo 3300258 152,305
+Barra do Piraí 3300308 578,471
+Barra Mansa 3300407 547,441
+Belford Roxo 3300456 79,791
+Bom Jardim 3300506 384,981
+Bom Jesus do Itabapoana 3300605 598,401
+Cabo Frio 3300704 400,693
+Cachoeiras de Macacu 3300803 955,806
+Cambuci 3300902 561,739
+Campos dos Goytacazes 3301009 4.031,910
+Cantagalo 3301108 748,777
+Carapebus (*) 3300936 305,502
+Cardoso Moreira 3301157 514,882
+Carmo 3301207 321,187
+Casimiro de Abreu 3301306 460,843
+Comendador Levy Gasparian 3300951 107,266
+Conceição de Macabu (*) 3301405 348,327
+Cordeiro 3301504 116,044
+Duas Barras 3301603 375,238
+Duque de Caxias 3301702 464,573
+Engenheiro Paulo de Frontin 3301801 139,008
+Guapimirim 3301850 360,813
+Iguaba Grande 3301876 53,601
+Itaboraí 3301900 424,219
+Itaguaí 3302007 271,563
+Italva 3302056 296,174
+Itaocara 3302106 428,440
+Itaperuna 3302205 1.105,566
+Itatiaia 3302254 224,957
+Japeri 3302270 82,832
+Laje do Muriaé 3302304 250,518
+Macaé (*) 3302403 1.215,904
+Macuco 3302452 77,080
+Magé 3302502 385,696
+Mangaratiba 3302601 351,653
+Maricá 3302700 362,477
+Mendes 3302809 77,288
+Mesquita 3302858 34,767
+Miguel Pereira 3302908 287,356
+Miracema 3303005 303,353
+Natividade 3303104 387,026
+Nilópolis 3303203 19,157
+Niterói 3303302 129,375
+Nova Friburgo 3303401 932,635
+Nova Iguaçu 3303500 523,888
+Paracambi 3303609 179,374
+Paraíba do Sul 3303708 580,803
+Parati 3303807 928,467
+Paty do Alferes 3303856 319,103
+Petrópolis 3303906 774,606
+Pinheiral 3303955 76,793
+Piraí 3304003 505,466
+Área Territorial
+UF – Rio de Janeiro – RJ - 33
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Porciúncula 3304102 302,201
+Porto Real 3304110 50,587
+Quatis 3304128 286,244
+Queimados 3304144 76,921
+Quissamã 3304151 715,877
+Resende 3304201 1.113,507
+Rio Bonito 3304300 462,176
+Rio Claro 3304409 841,390
+Rio das Flores 3304508 477,662
+Rio das Ostras 3304524 230,621
+Rio de Janeiro 3304557 1.182,296
+Santa Maria Madalena 3304607 815,591
+Santo Antônio de Pádua 3304706 611,981
+São Fidélis 3304805 1.028,095
+São Francisco de Itabapoana 3304755 1.111,335
+São Gonçalo 3304904 249,142
+São João da Barra 3305000 458,611
+São João de Meriti 3305109 34,838
+São José de Ubá 3305133 250,596
+São José do Vale do Rio Preto 3305158 239,950
+São Pedro da Aldeia 3305208 339,647
+São Sebastião do Alto 3305307 397,180
+Sapucaia 3305406 540,350
+Saquarema 3305505 354,675
+Seropédica 3305554 283,794
+Silva Jardim 3305604 938,336
+Sumidouro 3305703 395,213
+Tanguá 3305752 146,623
+Teresópolis 3305802 770,507
+Trajano de Morais 3305901 589,397
+Três Rios 3306008 324,496
+Valença 3306107 1.304,769
+Varre-Sai 3306156 188,770
+Vassouras 3306206 552,438
+Volta Redonda 3306305 182,317
+Observações:
+- Rio de Janeiro
+(*) Carapebus, Conceição de Macabu e Macaé. Áreas adotadas em decorrência de liminar judicial.
