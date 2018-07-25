@@ -3,6 +3,12 @@ Este projeto tem o objetivo de disponibilizar um banco de dados com informaçõe
 
 Para tanto foi projetado um banco de dados otimizado de acordo com as normas de otimização de tabelas e relacionamentos, o qual é apresentado pela sua documentação, Diagrama Entidade-Relacionamento (DER) que pode ser acessado na pasta de Documentação deste projeto.
 
+<h3>Licença</h3>
+<a href="https://github.com/izaquiellbessas/Base-Geopolitica/blob/master/LICENSE">Ler</a>
+
+<h3>Código de Conduta do Projeto</h3>
+<a href="https://github.com/izaquiellbessas/Base-Geopolitica/blob/master/CODE_OF_CONDUCT.md">Ler</a>
+
 <h3>DER:</h3>
 <img src="https://github.com/izaquiellbessas/Base-Geopolitica/blob/master/Documenta%C3%A7%C3%A3o/DER%20Geral.png?raw=true" alt="DER" />
 
