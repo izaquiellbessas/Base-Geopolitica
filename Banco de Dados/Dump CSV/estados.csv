@@ -1,5 +1,6 @@
 id_estado,nome,sigla_uf,fk_pais
-﻿11,Rondônia,RO,BRA
+1,Exterior,EX,NULL
+11,Rodônia,RO,BRA
 12,Acre,AC,BRA
 13,Amazonas,AM,BRA
 14,Roraima,RR,BRA
@@ -26,4 +27,3 @@ id_estado,nome,sigla_uf,fk_pais
 51,"Mato Grosso",MT,BRA
 52,Goiás,GO,BRA
 53,"Distrito Federal",DF,BRA
-1,Exterior,EX,NULL
