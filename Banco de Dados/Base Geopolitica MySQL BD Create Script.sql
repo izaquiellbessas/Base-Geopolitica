@@ -137,21 +137,6 @@ ENGINE = InnoDB;
 USE `geografia` ;
 
 -- -----------------------------------------------------
--- Placeholder table for view `geografia`.`view_regioes_mesorregioes_microrregioes`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `geografia`.`view_regioes_mesorregioes_microrregioes` (`'Microrregião'` INT, `'Mesorregião'` INT, `'Região'` INT);
-
--- -----------------------------------------------------
--- Placeholder table for view `geografia`.`view_cidades_com_estados_e_regioes`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `geografia`.`view_cidades_com_estados_e_regioes` (`'Código IBGE'` INT, `'Cidades'` INT, `'Microrregião'` INT, `'Mesorregião'` INT, `'Estado/UF'` INT, `'Região'` INT);
-
--- -----------------------------------------------------
--- Placeholder table for view `geografia`.`view_cidades_com_todas_caracteristicas`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `geografia`.`view_cidades_com_todas_caracteristicas` (`'Código Sistema'` INT, `'Código IBGE'` INT, `'Cidades'` INT, `'Microrregião'` INT, `'Mesorregião'` INT, `'Estado/UF'` INT, `'Região'` INT, `'Altitude'` INT, `'Latitude'` INT, `'Longitude'` INT);
-
--- -----------------------------------------------------
 -- View `geografia`.`view_regioes_mesorregioes_microrregioes`
 -- -----------------------------------------------------
 DROP VIEW IF EXISTS `geografia`.`view_regioes_mesorregioes_microrregioes` ;
