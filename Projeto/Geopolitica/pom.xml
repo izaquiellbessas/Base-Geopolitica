@@ -65,7 +65,7 @@
 		<dependency>
 			<groupId>org.flywaydb</groupId>
 			<artifactId>flyway-core</artifactId>
-		</dependency>
+			</dependency>
 	</dependencies>
 
 	<build>
@@ -82,7 +82,7 @@
                     <user>geografia</user>
                     <password>geografia</password>
                     <baselineOnMigrate>true</baselineOnMigrate>
-                    <table>flyway_schema_history</table>
+                    <table>sys__flyway_schema_history</table>
                 </configuration>
             </plugin>
 		</plugins>
