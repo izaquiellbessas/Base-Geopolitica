@@ -1,5 +1,5 @@
 # Base-Geopolitica
-Este projeto tem o objetivo de disponibilizar um banco de dados com informações geográficas para serem usadas em sistemas de informações que necessitam, para qualquer tarefa, fazer uso de informações como: País, Estado, Região e subrregiões, e Cidades.
+Este projeto tem o objetivo de disponibilizar um banco de dados e a implementação de uma API REST Full com informações geográficas para serem usadas em sistemas de informações que necessitem fazer uso, para qualquer tarefa, de informações como: País, Estado, Região, Mesorregiões, Microrregiões e Cidades.
 
 Para tanto foi projetado um banco de dados otimizado de acordo com as normas de otimização de tabelas e relacionamentos, o qual é apresentado pela sua documentação, Diagrama Entidade-Relacionamento (DER) que pode ser acessado na pasta de Documentação deste projeto.
 
@@ -70,4 +70,10 @@ Bandeiras: http://flagpedia.net
 <ol>
   <li>MySQL Server: 5.7.21</li>
   <li>MySQL Workbench: 6.3.10</li>
+  <li>Java SDK 8</li>
+  <li>Spring Tool Suite 4, by Pivotal</li>
+  <li>Spring boot 2.2.4</li>
+  <li>Java Persistence API</li>
+  <li>Hibernate</li>
+  <li>Flyway Migration DB</li>
 </ol>
