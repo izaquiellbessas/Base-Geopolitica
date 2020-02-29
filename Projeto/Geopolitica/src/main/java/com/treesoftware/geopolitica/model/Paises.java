@@ -16,11 +16,29 @@ public class Paises {
 	private String isoAlpha2;
 	
 	@Id
-	@Column(name = "iso_alpha3")
+	@Column(name = "iso_alpha3", updatable = false)
 	private String isoAlpha3;
 	
 	@Column(name = "iso_numero")
 	private String isoNumero;
+
+	public Paises() {
+		super();
+	}
+	
+	public Paises(String nome, String isoAlpha3) {
+		super();
+		this.nome = nome;
+		this.isoAlpha3 = isoAlpha3;
+	}
+
+	public Paises(String nome, String isoAlpha2, String isoAlpha3, String isoNumero) {
+		super();
+		this.nome = nome;
+		this.isoAlpha2 = isoAlpha2;
+		this.isoAlpha3 = isoAlpha3;
+		this.isoNumero = isoNumero;
+	}
 
 	public String getNome() {
 		return nome;

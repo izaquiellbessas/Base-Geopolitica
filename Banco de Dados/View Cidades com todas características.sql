@@ -9,11 +9,11 @@ SELECT cidades.id_cidade AS 'Código Sistema',
        cidades.geo_altitude AS 'Altitude',
        cidades.geo_latitude AS 'Latitude',
        cidades.geo_longitude AS 'Longitude'
-FROM geografia.cidades,
-	 geografia.regioes,
-	 geografia.mesorregioes,
-     geografia.microrregioes,
-     geografia.estados
+FROM geografia.geo_cidades AS cidades,
+	 geografia.geo_regioes AS regioes,
+	 geografia.geo_mesorregioes AS mesorregioes,
+     geografia.geo_microrregioes AS microrregioes,
+     geografia.geo_estados AS estados
 WHERE mesorregioes.id_mesorregiao = microrregioes.fk_id_mesoregiao AND 
 	  mesorregioes.fk_id_regiao = regioes.id_regiao AND
       cidades.fk_id_microrregiao = microrregioes.id_micrroregiao AND
