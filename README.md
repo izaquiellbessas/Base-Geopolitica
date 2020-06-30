@@ -75,5 +75,4 @@ Bandeiras: http://flagpedia.net
   <li>Spring boot 2.2.4</li>
   <li>Java Persistence API</li>
   <li>Hibernate</li>
-  <li>Flyway Migration DB</li>
 </ol>
