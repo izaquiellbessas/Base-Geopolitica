@@ -1,22 +1,25 @@
 CREATE VIEW `view_cidades_com_todas_caracteristicas` AS
-SELECT cidades.id_cidade AS 'Código Sistema',
-	   cidades.codigo_ibge AS 'Código IBGE',
-	   cidades.nome AS 'Cidades',
-	   microrregioes.nome AS 'Microrregião',
-	   mesorregioes.nome AS 'Mesorregião',
-       estados.sigla_uf AS 'Estado/UF',
-       regioes.nome AS 'Região',
-       cidades.geo_altitude AS 'Altitude',
-       cidades.geo_latitude AS 'Latitude',
-       cidades.geo_longitude AS 'Longitude'
-FROM geografia.geo_cidades AS cidades,
-	 geografia.geo_regioes AS regioes,
-	 geografia.geo_mesorregioes AS mesorregioes,
-     geografia.geo_microrregioes AS microrregioes,
-     geografia.geo_estados AS estados
-WHERE mesorregioes.id_mesorregiao = microrregioes.fk_id_mesoregiao AND 
-	  mesorregioes.fk_id_regiao = regioes.id_regiao AND
-      cidades.fk_id_microrregiao = microrregioes.id_micrroregiao AND
-      cidades.fk_id_estado = estados.id_estado
-ORDER BY regioes.nome, estados.sigla_uf, mesorregioes.nome, microrregioes.nome, cidades.nome
-;
+SELECT
+	cidades.nome AS 'Cidade',
+	microrregioes.nome AS 'Microrregião',
+	mesorregioes.nome AS 'Mesorregião',
+	estados.sigla_uf AS 'UF',
+	regioes.nome AS 'Região',
+    cidades.geo_latitude AS 'Latitude',
+    cidades.geo_longitude AS 'Longitude',
+    cidades.geo_altitude AS 'Altitude'
+FROM 
+	geo_cidades AS cidades,
+	geo_microrregioes AS microrregioes,
+	geo_mesorregioes AS mesorregioes,
+	geo_regioes AS regioes,
+	geo_estados AS estados
+WHERE
+	regioes.id_regiao = estados.fk_id_regiao
+	AND mesorregioes.fk_id_estado = estados.id_estado
+    AND microrregioes.fk_id_estado = estados.id_estado
+    AND microrregioes.fk_id_mesorregiao = mesorregioes.id_mesorregiao
+    AND cidades.fk_id_estado = estados.id_estado
+    AND cidades.fk_id_mesorregiao = mesorregioes.id_mesorregiao
+    AND cidades.fk_id_microrregiao = microrregioes.id_microrregiao
+ORDER BY regioes.nome, estados.sigla_uf, mesorregioes.nome, microrregioes.nome, cidades.nome;
