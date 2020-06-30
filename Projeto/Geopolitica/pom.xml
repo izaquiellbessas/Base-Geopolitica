@@ -61,11 +61,6 @@
 			</exclusions>
 		</dependency>
 		
-		<!-- Databse migrations with incremental SQL script -->
-		<dependency>
-			<groupId>org.flywaydb</groupId>
-			<artifactId>flyway-core</artifactId>
-			</dependency>
 	</dependencies>
 
 	<build>
@@ -74,17 +69,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
-			<plugin>
-                <groupId>org.flywaydb</groupId>
-                <artifactId>flyway-maven-plugin</artifactId>
-                <configuration>
-                    <url>jdbc:mysql://localhost:3308/geografia</url>
-                    <user>geografia</user>
-                    <password>geografia</password>
-                    <baselineOnMigrate>true</baselineOnMigrate>
-                    <table>sys__flyway_schema_history</table>
-                </configuration>
-            </plugin>
+			
 		</plugins>
 	</build>
 
