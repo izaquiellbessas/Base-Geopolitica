@@ -1,0 +1,134 @@
+﻿id_regiao_intermediaria,fk_id_estado,nome
+1506,15,Altamira
+2801,28,Aracaju
+3506,35,Araçatuba
+1702,17,Araguaína
+2702,27,Arapiraca
+3509,35,Araraquara
+3107,31,Barbacena
+5104,51,Barra do Garças
+2906,29,Barreiras
+3503,35,Bauru
+1501,15,Belém
+3101,31,Belo Horizonte
+4207,42,Blumenau
+1401,14,Boa Vista
+1507,15,Breves
+4205,42,Caçador
+5102,51,Cáceres
+3204,32,Cachoeiro do Itapemirim
+2402,24,Caicó
+2502,25,Campina Grande
+3510,35,Campinas
+5001,50,Campo Grande
+3304,33,Campos dos Goytacazes
+2602,26,Caruaru
+4103,41,Cascavel
+1502,15,Castanhal
+2103,21,Caxias
+4307,43,Caxias do Sul
+4204,42,Chapecó
+3203,32,Colatina
+2205,22,Corrente - Bom Jesus
+5003,50,Corumbá
+2305,23,Crateús
+4202,42,Criciúma
+1202,12,Cruzeiro do Sul
+5101,51,Cuiabá
+4101,41,Curitiba
+5301,53,Distrito Federal
+3113,31,Divinópolis
+5002,50,Dourados
+2910,29,Feira de Santana
+2206,22,Floriano
+4201,42,Florianópolis
+2301,23,Fortaleza
+5201,52,Goiânia
+3104,31,Governador Valadares
+2905,29,Guanambi
+4102,41,Guarapuava
+1703,17,Gurupi
+2303,23,Iguatu
+4305,43,Ijuí
+2903,29,Ilhéus ¿ Itabuna
+2105,21,Imperatriz
+3105,31,Ipatinga
+2907,29,Irecê
+2802,28,Itabaiana
+5202,52,Itumbiara
+1102,11,Ji-Paraná
+2501,25,João Pessoa
+4206,42,Joinville
+2908,29,Juazeiro
+2304,23,Juazeiro do Norte
+3106,31,Juíz de Fora
+1303,13,Lábrea
+4203,42,Lages
+4105,41,Londrina
+5206,52,Luziânia - Águas Lindas de Goiás
+3305,33,Macaé - Rio das Ostras - Cabo Frio
+1601,16,Macapá
+2701,27,Maceió
+1301,13,Manaus
+1503,15,Marabá
+3504,35,Marília
+4104,41,Maringá
+3102,31,Montes Claros
+2403,24,Mossoró
+2401,24,Natal
+1602,16,Oiapoque - Porto Grande
+1701,17,Palmas
+1304,13,Parintins
+2202,22,Parnaíba
+4306,43,Passo Fundo
+2503,25,Patos
+3112,31,Patos de Minas
+2909,29,Paulo Afonso
+4302,43,Pelotas
+2604,26,Petrolina
+3303,33,Petrópolis
+2203,22,Picos
+4106,41,Ponta Grossa
+5205,52,Porangatu - Uruaçu
+4301,43,Porto Alegre
+1101,11,Porto Velho
+3109,31,Pouso Alegre
+2104,21,Presidente Dutra
+3505,35,Presidente Prudente
+2302,23,Quixadá
+2601,26,Recife
+1504,15,Redenção
+3508,35,Ribeirão Preto
+1201,12,Rio Branco
+3301,33,Rio de Janeiro
+5203,52,Rio Verde
+5105,51,Rondonópolis
+1402,14,Rorainópolis - Caracaraí
+2901,29,Salvador
+4308,43,Santa Cruz do Sul - Lajeado
+2102,21,Santa Inês - Bacabal
+4303,43,Santa Maria
+1505,15,Santarém
+2902,29,Santo Antônio de Jesus
+3507,35,São José do Rio Preto
+3511,35,São José dos Campos
+2101,21,São Luís
+5204,52,São Luís de Montes Belos - Iporá
+3202,32,São Mateus
+3501,35,São Paulo
+2204,22,São Raimundo Nonato
+2603,26,Serra Talhada
+5103,51,Sinop
+2306,23,Sobral
+3502,35,Sorocaba
+2504,25,Sousa - Cajazeiras
+1302,13,Tefé
+3103,31,Teófilo Otoni
+2201,22,Teresina
+3110,31,Uberaba
+3111,31,Uberlândia
+4304,43,Uruguaiana
+3108,31,Varginha
+3201,32,Vitória
+2904,29,Vitória da Conquista
+3302,33,Volta Redonda - Barra Mansa
