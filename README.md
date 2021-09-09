@@ -18,12 +18,11 @@ O projeto já conta com um banco de dados populado que disponibiliza:
   <li> Estados brasileiros com o seu código sendo o mesmo utilizado pelo IBGE. </li>
   <li> Regiões brasileiras, tais como Sul, Sudeste, Centro-Oeste, Norte e Nordeste. </li>
   <li> Subrregiões brasileiras, chamadas de mesorregiões (as quais estão contidas nas Regiões) e microrregiões (que por sua vez estão contidas nas Mesorregiões).
-  <li> Cidades brasileiras, com latitude, longitude, altitude, código IBGE e seus relacionamentos com as Microrregiões e Estados. </li>
+  <li> Região imediata e região intermediária, as quais visam atualizar e substituir as mesorregiões e microrregiões.
+  <li> Cidades brasileiras, com latitude, longitude, altitude, código IBGE e seus relacionamentos. </li>
 </ol>
 
-Todo o conteúdo que povoa o banco de dados foi fruto de mineiração de dados disponibilizados publicamente na internet. A maior parte das informações sobre cidades, estados e regiões brasileiras foi obtida no site do IBGE.
-
-O projeto visa ainda a criação de uma tabela de bairros e endereços com CEP. Contudo, há um projeto que disponibiliza consulta gratuíta via API que retorna arquivo JSON com tal conteúdo no link: http://www.cepaberto.com/api_key
+Todo o conteúdo que povoa o banco de dados foi fruto de mineiração de dados disponibilizados publicamente na internet. A maior parte das informações sobre cidades, estados e regiões brasileiras foi obtida no site do IBGE. Há API pública do IBGE para consulta disponível em: https://servicodados.ibge.gov.br/api/docs/localidades
 
 O Script de criação do Banco de Dados com os dados para povoá-lo é muito grande para ser exibido atualmente pelo Github, aqui vai alguns exemplos de conteúdos que são inseridos:
 <h4>Países</h4>
