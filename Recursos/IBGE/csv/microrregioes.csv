@@ -1,0 +1,559 @@
+id_microrregiao,fk_id_estado,fk_id_mesorregiao,nome
+35035,35,3508,Adamantina
+32007,32,3203,Afonso Cláudio
+21002,21,2101,Aglomeração Urbana de São Luís
+28004,28,2802,Agreste de Itabaiana
+28006,28,2802,Agreste de Lagarto
+24015,24,2403,Agreste Potiguar
+31041,31,3108,Aimorés
+27002,27,2701,Alagoana do Sertão do São Francisco
+29017,29,2904,Alagoinhas
+32011,32,3204,Alegre
+31049,31,3110,Alfenas
+15003,15,1501,Almeirim
+31014,31,3103,Almenara
+51002,51,5101,Alta Floresta
+15015,15,1505,Altamira
+51022,51,5105,Alto Araguaia
+26009,26,2603,Alto Capibaribe
+51012,51,5103,Alto Guaporé
+21011,21,2103,Alto Mearim e Grajaú
+22015,22,2204,Alto Médio Canindé
+22010,22,2203,Alto Médio Gurguéia
+51018,51,5104,Alto Pantanal
+51015,51,5104,Alto Paraguai
+22007,22,2203,Alto Parnaíba Piauiense
+13003,13,1302,Alto Solimões
+50003,50,5002,Alto Taquari
+51006,51,5101,Alto Teles Pires
+11005,11,1102,Alvorada D'Oeste
+16002,16,1601,Amapá
+35033,35,3507,Amparo
+52007,52,5203,Anápolis
+35016,35,3503,Andradina
+31055,31,3110,Andrelândia
+24009,24,2402,Angicos
+52009,52,5203,Anicuns
+41010,41,4103,Apucarana
+50002,50,5001,Aquidauana
+28011,28,2803,Aracaju
+35017,35,3503,Araçatuba
+31012,31,3103,Araçuaí
+52003,52,5201,Aragarças
+17002,17,1701,Araguaína
+27006,27,2702,Arapiraca
+42020,42,4206,Araranguá
+35024,35,3505,Araraquara
+15006,15,1502,Arari
+26001,26,2601,Araripina
+31023,31,3105,Araxá
+51005,51,5101,Arinos
+51001,51,5101,Aripuanã
+11003,11,1102,Ariquemes
+41014,41,4104,Assaí
+35039,35,3510,Assis
+41006,41,4103,Astorga
+35006,35,3501,Auriflama
+35022,35,3504,Avaré
+33009,33,3304,Bacia de São João
+33013,33,3305,Baía da Ilha Grande
+24013,24,2403,Baixa Verde
+21005,21,2101,Baixada Maranhense
+28010,28,2803,Baixo Cotinguiba
+23009,23,2302,Baixo Curu
+23023,23,2305,Baixo Jaguaribe
+50001,50,5001,Baixo Pantanal
+21013,21,2104,Baixo Parnaíba Maranhense
+22001,22,2201,Baixo Parnaíba Piauiense
+35052,35,3513,Bananal
+31059,31,3111,Barbacena
+29006,29,2902,Barra
+32001,32,3201,Barra de São Francisco
+33012,33,3305,Barra do Piraí
+29001,29,2901,Barreiras
+35009,35,3502,Barretos
+23031,23,2307,Barro
+27004,27,2701,Batalha
+35015,35,3502,Batatais
+23013,23,2302,Baturité
+35020,35,3504,Bauru
+15007,15,1503,Belém
+31030,31,3107,Belo Horizonte
+22008,22,2203,Bertolínia
+17001,17,1701,Bico do Papagaio
+35018,35,3503,Birigui
+42012,42,4204,Blumenau
+14001,14,1401,Boa Vista
+13011,13,1304,Boca do Acre
+31009,31,3102,Bocaiúva
+50009,50,5004,Bodoquena
+31026,31,3106,Bom Despacho
+29007,29,2902,Bom Jesus da Lapa
+28012,28,2803,Boquim
+29022,29,2906,Boquira
+24014,24,2403,Borborema Potiguar
+35023,35,3504,Botucatu
+35048,35,3512,Bragança Paulista
+15010,15,1504,Bragantina
+12005,12,1202,Brasiléia
+53001,53,5301,Brasília
+25015,25,2503,Brejo Paraibano
+26012,26,2603,Brejo Pernambucano
+23033,23,2307,Brejo Santo
+29027,29,2906,Brumado
+43022,43,4304,Cachoeira do Sul
+32012,32,3204,Cachoeiro de Itapemirim
+11006,11,1102,Cacoal
+25002,25,2501,Cajazeiras
+43028,43,4305,Camaquã
+15011,15,1504,Cametá
+43030,43,4306,Campanha Central
+43031,43,4306,Campanha Meridional
+43029,43,4306,Campanha Ocidental
+25017,25,2503,Campina Grande
+35032,35,3507,Campinas
+31045,31,3109,Campo Belo
+50004,50,5002,Campo Grande
+22004,22,2202,Campo Maior
+41005,41,4102,Campo Mourão
+42010,42,4203,Campos de Lages
+35049,35,3513,Campos do Jordão
+33003,33,3302,Campos dos Goytacazes
+51010,51,5102,Canarana
+23012,23,2302,Canindé
+42006,42,4202,Canoinhas
+33006,33,3303,Cantagalo-Cordeiro
+41025,41,4107,Capanema
+35044,35,3511,Capão Bonito
+31011,31,3103,Capelinha
+14003,14,1402,Caracaraí
+35054,35,3513,Caraguatatuba
+31040,31,3108,Caratinga
+43009,43,4301,Carazinho
+28002,28,2801,Carira
+23032,23,2307,Cariri
+25010,25,2502,Cariri Ocidental
+25011,25,2502,Cariri Oriental
+23030,23,2307,Caririaçu
+23015,23,2302,Cascavel
+41023,41,4106,Cascavel
+50005,50,5003,Cassilândia
+15008,15,1503,Castanhal
+31066,31,3112,Cataguases
+52017,52,5205,Catalão
+35005,35,3501,Catanduva
+25001,25,2501,Catolé do Rocha
+29019,29,2905,Catu
+21017,21,2104,Caxias
+43016,43,4302,Caxias do Sul
+52006,52,5203,Ceres
+41035,41,4110,Cerro Azul
+43006,43,4301,Cerro Largo
+24002,24,2401,Chapada do Apodi
+23029,23,2307,Chapada do Araripe
+52005,52,5202,Chapada dos Veadeiros
+21021,21,2105,Chapadas das Mangabeiras
+21018,21,2104,Chapadas do Alto Itapecuru
+22012,22,2203,Chapadas do Extremo Sul Piauiense
+21014,21,2104,Chapadinha
+42002,42,4201,Chapecó
+23014,23,2302,Chorozinho
+41003,41,4101,Cianorte
+13006,13,1303,Coari
+21015,21,2104,Codó
+21016,21,2104,Coelho Neto
+32003,32,3201,Colatina
+51003,51,5101,Colíder
+11008,11,1102,Colorado do Oeste
+15022,15,1506,Conceição do Araguaia
+31028,31,3107,Conceição do Mato Dentro
+42005,42,4201,Concórdia
+31034,31,3107,Conselheiro Lafaiete
+23003,23,2301,Coreaú
+41015,41,4104,Cornélio Procópio
+29002,29,2901,Cotegipe
+28008,28,2803,Cotinguiba
+42019,42,4206,Criciúma
+43011,43,4301,Cruz Alta
+12001,12,1201,Cruzeiro do Sul
+51017,51,5104,Cuiabá
+25012,25,2503,Curimataú Ocidental
+25013,25,2503,Curimataú Oriental
+41037,41,4110,Curitiba
+42009,42,4203,Curitibanos
+31025,31,3106,Curvelo
+31010,31,3103,Diamantina
+17008,17,1702,Dianópolis
+31043,31,3109,Divinópolis
+50010,50,5004,Dourados
+35034,35,3508,Dracena
+52012,52,5204,Entorno de Brasília
+29018,29,2904,Entre Rios
+43004,43,4301,Erechim
+25014,25,2503,Esperança
+28013,28,2803,Estância
+29014,29,2904,Euclides da Cunha
+41012,41,4103,Faxinal
+29012,29,2903,Feira de Santana
+26019,26,2605,Fernando de Noronha
+35002,35,3501,Fernandópolis
+41008,41,4103,Floraí
+22009,22,2203,Floriano
+42016,42,4205,Florianópolis
+31044,31,3109,Formiga
+23016,23,2303,Fortaleza
+41024,41,4106,Foz do Iguaçu
+35012,35,3502,Franca
+41026,41,4107,Francisco Beltrão
+35058,35,3515,Franco da Rocha
+43003,43,4301,Frederico Westphalen
+31021,31,3105,Frutal
+15005,15,1502,Furos de Breves
+26011,26,2603,Garanhuns
+21020,21,2105,Gerais de Balsas
+52010,52,5203,Goiânia
+41004,41,4102,Goioerê
+31037,31,3108,Governador Valadares
+43024,43,4305,Gramado-Canela
+31008,31,3102,Grão Mogol
+11002,11,1101,Guajará-Mirim
+15013,15,1504,Guamá
+29026,29,2906,Guanambi
+31035,31,3108,Guanhães
+43014,43,4302,Guaporé
+25016,25,2503,Guarabira
+32010,32,3203,Guarapari
+41029,41,4108,Guarapuava
+35051,35,3513,Guaratinguetá
+35059,35,3515,Guarulhos
+17005,17,1701,Gurupi
+21007,21,2102,Gurupi
+41017,41,4104,Ibaiti
+23002,23,2301,Ibiapaba
+50011,50,5004,Iguatemi
+23026,23,2306,Iguatu
+43008,43,4301,Ijuí
+29031,29,2907,Ilhéus-Itabuna
+21009,21,2102,Imperatriz
+31039,31,3108,Ipatinga
+52008,52,5203,Iporá
+23006,23,2301,Ipu
+41032,41,4109,Irati
+29009,29,2903,Irecê
+25018,25,2503,Itabaiana
+29011,29,2903,Itaberaba
+31031,31,3107,Itabira
+13009,13,1303,Itacoatiara
+33017,33,3306,Itaguaí
+31032,31,3107,Itaguara
+15014,15,1505,Itaituba
+42013,42,4204,Itajaí
+31056,31,3110,Itajubá
+26016,26,2605,Itamaracá
+35056,35,3514,Itanhaém
+26006,26,2602,Itaparica
+35060,35,3515,Itapecerica da Serra
+21006,21,2101,Itapecuru Mirim
+32013,32,3204,Itapemirim
+33001,33,3301,Itaperuna
+29029,29,2906,Itapetinga
+35042,35,3511,Itapetininga
+35041,35,3511,Itapeva
+23008,23,2302,Itapipoca
+25006,25,2501,Itaporanga
+31017,31,3105,Ituiutaba
+42014,42,4204,Ituporanga
+35011,35,3502,Ituverava
+41013,41,4103,Ivaiporã
+35013,35,3502,Jaboticabal
+41016,41,4104,Jacarezinho
+29010,29,2903,Jacobina
+43034,43,4307,Jaguarão
+41020,41,4105,Jaguariaíva
+17007,17,1702,Jalapão
+35001,35,3501,Jales
+31004,31,3102,Janaúba
+31003,31,3102,Januária
+28009,28,2803,Japaratuba
+13002,13,1301,Japurá
+35021,35,3504,Jaú
+51014,51,5103,Jauru
+29024,29,2906,Jequié
+29013,29,2904,Jeremoabo
+11004,11,1102,Ji-Paraná
+42004,42,4201,Joaçaba
+25022,25,2504,João Pessoa
+42008,42,4202,Joinville
+29004,29,2902,Juazeiro
+31065,31,3112,Juiz de Fora
+35047,35,3512,Jundiaí
+13004,13,1302,Juruá
+33010,33,3304,Lagos
+43021,43,4304,Lajeado-Estrela
+41036,41,4110,Lapa
+31057,31,3111,Lavras
+23028,23,2306,Lavras da Mangabeira
+21004,21,2101,Lençóis Maranhenses
+35027,35,3506,Limeira
+32006,32,3202,Linhares
+35019,35,3504,Lins
+23022,23,2305,Litoral de Aracati
+23001,23,2301,Litoral de Camocim e Acaraú
+43035,43,4307,Litoral Lagunar
+24016,24,2404,Litoral Nordeste
+25020,25,2504,Litoral Norte
+27010,27,2703,Litoral Norte Alagoano
+21001,21,2101,Litoral Ocidental Maranhense
+22002,22,2201,Litoral Piauiense
+24019,24,2404,Litoral Sul
+25023,25,2504,Litoral Sul
+29025,29,2906,Livramento do Brumado
+41011,41,4103,Londrina
+33016,33,3306,Macacu-Caceribu
+33004,33,3302,Macaé
+24017,24,2404,Macaíba
+16003,16,1602,Macapá
+24008,24,2402,Macau
+27011,27,2703,Maceió
+13013,13,1304,Madeira
+13007,13,1303,Manaus
+31061,31,3112,Manhuaçu
+31038,31,3108,Mantena
+15020,15,1506,Marabá
+35038,35,3509,Marília
+41009,41,4103,Maringá
+27009,27,2703,Mata Alagoana
+26015,26,2604,Mata Meridional Pernambucana
+26013,26,2604,Mata Setentrional Pernambucana
+16004,16,1602,Mazagão
+51011,51,5102,Médio Araguaia
+26010,26,2603,Médio Capibaribe
+23011,23,2302,Médio Curu
+23024,23,2305,Médio Jaguaribe
+21010,21,2103,Médio Mearim
+24003,24,2401,Médio Oeste
+22005,22,2202,Médio Parnaíba Piauiense
+52015,52,5205,Meia Ponte
+23004,23,2301,Meruoca
+17003,17,1701,Miracema do Tocantins
+35062,35,3515,Mogi das Cruzes
+35031,35,3507,Mogi Mirim
+32004,32,3202,Montanha
+43023,43,4305,Montenegro
+31007,31,3102,Montes Claros
+24001,24,2401,Mossoró
+31063,31,3112,Muriaé
+31016,31,3104,Nanuque
+43012,43,4301,Não-Me-Toque
+24018,24,2404,Natal
+35007,35,3501,Nhandeara
+14002,14,1401,Nordeste de Roraima
+51009,51,5102,Norte Araguaia
+28003,28,2802,Nossa Senhora das Dores
+50008,50,5003,Nova Andradina
+33007,33,3303,Nova Friburgo
+32002,32,3201,Nova Venécia
+35008,35,3501,Novo Horizonte
+15001,15,1501,Óbidos
+16001,16,1601,Oiapoque
+31046,31,3109,Oliveira
+35057,35,3515,Osasco
+43027,43,4305,Osório
+35040,35,3510,Ourinhos
+31033,31,3107,Ouro Preto
+23017,23,2303,Pacajus
+26003,26,2601,Pajeú
+41030,41,4108,Palmas
+27005,27,2702,Palmeira dos Índios
+31029,31,3107,Pará de Minas
+31002,31,3101,Paracatu
+15017,15,1506,Paragominas
+35053,35,3513,Paraibuna/Paraitinga
+41038,41,4110,Paranaguá
+50006,50,5003,Paranaíba
+51008,51,5101,Paranatinga
+41001,41,4101,Paranavaí
+15019,15,1506,Parauapebas
+51004,51,5101,Parecis
+13010,13,1303,Parintins
+43010,43,4301,Passo Fundo
+31047,31,3110,Passos
+41027,41,4107,Pato Branco
+25004,25,2501,Patos
+31020,31,3105,Patos de Minas
+31019,31,3105,Patrocínio
+24006,24,2401,Pau dos Ferros
+29005,29,2902,Paulo Afonso
+31036,31,3108,Peçanha
+31013,31,3103,Pedra Azul
+43033,43,4307,Pelotas
+27013,27,2703,Penedo
+26005,26,2602,Petrolina
+25005,25,2501,Piancó
+22013,22,2204,Picos
+35045,35,3512,Piedade
+21008,21,2102,Pindaré
+22014,22,2204,Pio IX
+35028,35,3506,Piracicaba
+31006,31,3102,Pirapora
+35029,35,3507,Pirassununga
+52016,52,5205,Pires do Rio
+41028,41,4108,Pitanga
+31042,31,3109,Piuí
+31051,31,3110,Poços de Caldas
+41021,41,4105,Ponta Grossa
+31060,31,3112,Ponte Nova
+52004,52,5202,Porangatu
+41007,41,4103,Porecatu
+15004,15,1502,Portel
+43026,43,4305,Porto Alegre
+21019,21,2105,Porto Franco
+17006,17,1702,Porto Nacional
+29032,29,2907,Porto Seguro
+11001,11,1101,Porto Velho
+31052,31,3110,Pouso Alegre
+21012,21,2103,Presidente Dutra
+35036,35,3508,Presidente Prudente
+51019,51,5105,Primavera do Leste
+28007,28,2803,Propriá
+41031,41,4109,Prudentópolis
+13012,13,1304,Purus
+52018,52,5205,Quirinópolis
+26017,26,2605,Recife
+15021,15,1506,Redenção
+35055,35,3514,Registro
+43019,43,4303,Restinga Seca
+29015,29,2904,Ribeira do Pombal
+35014,35,3502,Ribeirão Preto
+12004,12,1202,Rio Branco
+35026,35,3506,Rio Claro
+33018,33,3306,Rio de Janeiro
+42011,42,4204,Rio do Sul
+17004,17,1701,Rio Formoso
+13001,13,1301,Rio Negro
+41039,41,4110,Rio Negro
+13008,13,1303,Rio Preto da Eva
+52002,52,5201,Rio Vermelho
+51021,51,5105,Rondonópolis
+21003,21,2101,Rosário
+51016,51,5104,Rosário Oeste
+15009,15,1504,Salgado
+26002,26,2601,Salgueiro
+31005,31,3102,Salinas
+29021,29,2905,Salvador
+43005,43,4301,Sananduva
+43020,43,4304,Santa Cruz do Sul
+43018,43,4303,Santa Maria
+29003,29,2901,Santa Maria da Vitória
+33008,33,3303,Santa Maria Madalena
+23007,23,2301,Santa Quitéria
+31053,31,3110,Santa Rita do Sapucaí
+43001,43,4301,Santa Rosa
+32008,32,3203,Santa Teresa
+27003,27,2701,Santana do Ipanema
+15002,15,1501,Santarém
+43017,43,4303,Santiago
+43007,43,4301,Santo Ângelo
+29020,29,2905,Santo Antônio de Jesus
+33002,33,3301,Santo Antônio de Pádua
+35063,35,3515,Santos
+42007,42,4202,São Bento do Sul
+35025,35,3505,São Carlos
+15018,15,1506,São Félix do Xingu
+43025,43,4305,São Jerônimo
+35030,35,3507,São João da Boa Vista
+31058,31,3111,São João Del Rei
+35010,35,3502,São Joaquim da Barra
+35004,35,3501,São José do Rio Preto
+35050,35,3513,São José dos Campos
+31054,31,3110,São Lourenço
+32005,32,3202,São Mateus
+41034,41,4109,São Mateus do Sul
+52001,52,5201,São Miguel do Araguaia
+42001,42,4201,São Miguel do Oeste
+27012,27,2703,São Miguel dos Campos
+35061,35,3515,São Paulo
+22011,22,2203,São Raimundo Nonato
+31048,31,3110,São Sebastião do Paraíso
+25021,25,2504,Sapé
+29023,29,2906,Seabra
+12003,12,1202,Sena Madureira
+29008,29,2903,Senhor do Bonfim
+28001,28,2801,Sergipana do Sertão do São Francisco
+24011,24,2402,Seridó Ocidental
+25008,25,2502,Seridó Ocidental Paraibano
+24012,24,2402,Seridó Oriental
+25009,25,2502,Seridó Oriental Paraibano
+24010,24,2402,Serra de Santana
+24005,24,2401,Serra de São Miguel
+23025,23,2305,Serra do Pereiro
+25007,25,2501,Serra do Teixeira
+33015,33,3306,Serrana
+27001,27,2701,Serrana do Sertão Alagoano
+27008,27,2703,Serrana dos Quilombos
+43032,43,4307,Serras de Sudeste
+29016,29,2904,Serrinha
+23018,23,2304,Sertão de Cratéus
+23020,23,2304,Sertão de Inhamuns
+23019,23,2304,Sertão de Quixeramobim
+23021,23,2304,Sertão de Senador Pompeu
+26004,26,2601,Sertão do Moxotó
+31027,31,3107,Sete Lagoas
+51007,51,5101,Sinop
+23005,23,2301,Sobral
+43013,43,4301,Soledade
+35046,35,3512,Sorocaba
+25003,25,2501,Sousa
+26018,26,2605,Suape
+14004,14,1402,Sudeste de Roraima
+52013,52,5205,Sudoeste de Goiás
+42017,42,4205,Tabuleiro
+51013,51,5103,Tangará da Serra
+12002,12,1201,Tarauacá
+35043,35,3511,Tatuí
+13005,13,1303,Tefé
+41019,41,4105,Telêmaco Borba
+31015,31,3104,Teófilo Otoni
+22003,22,2202,Teresina
+51020,51,5105,Tesouro
+42015,42,4205,Tijucas
+28005,28,2802,Tobias Barreto
+41022,41,4106,Toledo
+15012,15,1504,Tomé-Açu
+27007,27,2702,Traipu
+50007,50,5003,Três Lagoas
+31024,31,3106,Três Marias
+43002,43,4301,Três Passos
+33005,33,3303,Três Rios
+42018,42,4206,Tubarão
+15016,15,1506,Tucuruí
+35037,35,3509,Tupã
+31064,31,3112,Ubá
+31022,31,3105,Uberaba
+31018,31,3105,Uberlândia
+24007,24,2401,Umarizal
+25019,25,2503,Umbuzeiro
+41002,41,4101,Umuarama
+31001,31,3101,Unaí
+41033,41,4109,União da Vitória
+23010,23,2302,Uruburetama
+43015,43,4302,Vacaria
+24004,24,2401,Vale do Açu
+26007,26,2603,Vale do Ipanema
+26008,26,2603,Vale do Ipojuca
+33011,33,3305,Vale do Paraíba Fluminense
+52014,52,5205,Vale do Rio dos Bois
+29030,29,2907,Valença
+22006,22,2202,Valença do Piauí
+52011,52,5204,Vão do Paranã
+31050,31,3110,Varginha
+23027,23,2306,Várzea Alegre
+33014,33,3306,Vassouras
+31062,31,3112,Viçosa
+11007,11,1102,Vilhena
+32009,32,3203,Vitória
+29028,29,2906,Vitória da Conquista
+26014,26,2604,Vitória de Santo Antão
+35003,35,3501,Votuporanga
+41018,41,4104,Wenceslau Braz
+42003,42,4201,Xanxerê

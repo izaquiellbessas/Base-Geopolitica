@@ -1,4 +1,4 @@
-﻿id_regiao_imediata,fk_id_regiao_intermediaria,fk_id_estado,nome
+id_regiao_imediata,fk_id_regiao_intermediaria,fk_id_estado,nome
 310070,3113,31,Abaeté
 150003,1501,15,Abaetetuba
 210021,2105,21,Açailândia

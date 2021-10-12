@@ -1,4 +1,4 @@
-﻿id_regiao_intermediaria,fk_id_estado,nome
+id_regiao_intermediaria,id_estado,nome
 1506,15,Altamira
 2801,28,Aracaju
 3506,35,Araçatuba
