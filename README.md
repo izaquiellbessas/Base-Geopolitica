@@ -50,9 +50,34 @@ INSERT INTO `geografia`.`Mesorregioes` (`id_mesorregiao`, `nome`, `fk_id_regiao`
 INSERT INTO `geografia`.`Microrregioes` (`id_micrroregiao`, `nome`, `fk_id_mesoregiao`) VALUES (43, 'Araxá', 127);
 </code>
 
+<h4>Região Intermediária</h4>
+<code>
+INSERT INTO `geografia`.`geo_Regiao_Intermediaria` (`id_regiao_intermediaria`, `fk_id_estado`, `nome`) VALUES (3101, '31', 'Belo Horizonte');
+</code>
+
+<h4>Região Imediata</h4>
+<code>
+INSERT INTO `geografia`.`geo_Regiao_Imediata` (`id_regiao_imediata`, `fk_id_regiao_intermediaria`, `fk_id_estado`, `nome`) VALUES (350041, 3510, '35', 'Bragança Paulista');
+</code>
+
 <h4>Cidades</h4>
 <code>
 INSERT INTO `geografia`.`Cidades` (`id_cidade`, `nome`, `geo_latitude`, `geo_longitude`, `geo_altitude`, `codigo_ibge`, `fk_id_microrregiao`, `fk_id_estado`) VALUES (2336, 'Goianá', '-21.532417827654701', '-43.191482396977896', '407.61561499999999', 3127388, 251, 31);
+</code>
+
+<h4>Distritos</h4>
+<code>
+INSERT INTO `geografia`.`geo_Distritos` (`id_distrito`, `codigo_distrito`, `nome`, `geo_latitude`, `geo_longitude`, `geo_altitude`, `fk_id_cidade`) VALUES ('160027905', '05', 'Laranjal do Jari', '', '', '', '1600279');
+</code>
+
+<h4>Sub-distritos</h4>
+<code>
+INSERT INTO `geografia`.`geo_Sub_Distritos` (`id_sub_distrito`, `codigo_sub_distrito`, `nome`, `geo_latitude`, `geo_longitude`, `geo_altitude`, `fk_id_distrito`) VALUES ('43185070501', '01', 'Núcleo Cidade Baixa', '', '', '', '431850705');
+</code>
+
+<h4>Aniversário cidade</h4>
+<code>
+INSERT INTO `geografia`.`geo_Cidades_Aniversarios` (`raiz_id_cidade`, `mes`, `dia`) VALUES ('315050', 1, 1);
 </code>
 
 <h4>Download</h4>
