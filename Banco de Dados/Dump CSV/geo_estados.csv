@@ -1,0 +1,29 @@
+id_estado,nome,sigla_uf,fk_pais,fk_id_regiao
+1,Exterior,EX,NULL,NULL
+11,Rodônia,RO,BRA,1
+12,Acre,AC,BRA,1
+13,Amazonas,AM,BRA,1
+14,Roraima,RR,BRA,1
+15,Pará,PA,BRA,1
+16,Amapá,AM,BRA,1
+17,Tocantins,TO,BRA,1
+21,Maranhão,MA,BRA,2
+22,Piauí,PI,BRA,2
+23,Ceará,CE,BRA,2
+24,"Rio Grande do Norte",RN,BRA,2
+25,Paraíba,PB,BRA,2
+26,Pernambuco,PE,BRA,2
+27,Alagoas,AL,BRA,2
+28,Sergipe,SE,BRA,2
+29,Bahia,BA,BRA,2
+31,"Minas Gerais",MG,BRA,3
+32,"Espírito Santo",ES,BRA,3
+33,"Rio de Janeiro",RJ,BRA,3
+35,"São Paulo",SP,BRA,3
+41,Paraná,PR,BRA,4
+42,"Santa Catarina",SC,BRA,4
+43,"Rio Grande do Sul",RS,BRA,4
+50,"Mato Grosso do Sul",MS,BRA,5
+51,"Mato Grosso",MT,BRA,5
+52,Goiás,GO,BRA,5
+53,"Distrito Federal",DF,BRA,5

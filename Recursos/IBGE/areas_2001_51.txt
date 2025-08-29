@@ -1,0 +1,151 @@
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA
+RESOLUÇÃO Nº 05 , DE 10 DE OUTUBRO DE 2002
+Área Territorial :
+UF – Mato Grosso – MT - 51
+MUNICÍPIO CODMUNIC ÁREA (km²)
+MATO GROSSO 903.357,908
+Acorizal 5100102 841,166
+Água Boa 5100201 7.484,205
+Alta Floresta 5100250 8.947,069
+Alto Araguaia 5100300 5.538,022
+Alto Boa Vista 5100359 2.241,826
+Alto Garças 5100409 3.660,387
+Alto Paraguai 5100508 2.052,519
+Alto Taquari 5100607 1.394,760
+Apiacás 5100805 20.364,204
+Araguaiana 5101001 6.415,109
+Araguainha 5101209 688,676
+Araputanga 5101258 1.602,731
+Arenápolis 5101308 414,678
+Aripuanã 5101407 25.048,965
+Barão de Melgaço 5101605 11.182,846
+Barra do Bugres 5101704 7.228,902
+Barra do Garças 5101803 9.141,841
+Bom Jesus do Araguaia 5101852 4.279,088
+Brasnorte 5101902 15.959,328
+Cáceres 5102504 24.398,399
+Campinápolis 5102603 5.970,464
+Campo Novo do Parecis 5102637 9.448,384
+Campo Verde 5102678 4.794,555
+Campos de Júlio 5102686 6.804,577
+CanaBrava do Norte 5102694 3.449,984
+Canarana 5102702 10.834,325
+Carlinda 5102793 2.417,212
+Castanheira 5102850 3.948,861
+Chapada dos Guimarães 5103007 6.206,573
+Cláudia 5103056 3.820,948
+Cocalinho 5103106 16.538,832
+Colíder 5103205 3.038,249
+Colniza 5103254 27.947,646
+Comodoro 5103304 21.743,362
+Confresa 5103353 5.796,382
+Conquista D'oeste 5103361 2.698,008
+Cotriguaçu 5103379 9.123,582
+Cuiabá 5103403 3.538,167
+Curvelândia 5103437 748,363
+Denise 5103452 1.300,924
+Diamantino 5103502 7.630,212
+Dom Aquino 5103601 2.205,079
+Feliz Natal 5103700 11.448,049
+Figueirópolis d'Oeste 5103809 890,949
+Gaúcha do Norte 5103858 16.898,569
+General Carneiro 5103908 3.721,078
+Glória d'Oeste 5103957 846,053
+Guarantã do Norte 5104104 4.713,043
+Guiratinga 5104203 5.358,322
+Indiavaí 5104500 600,326
+Itaúba 5104559 4.538,338
+Itiquira 5104609 8.638,691
+Jaciara 5104807 1.658,720
+Jangada 5104906 1.021,939
+Jauru 5105002 1.217,480
+Juara 5105101 21.387,334
+Juína 5105150 26.251,276
+Área Territorial :
+UF – Mato Grosso – MT - 51
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Juruena 5105176 3.190,476
+Juscimeira 5105200 2.205,018
+Lambari d'Oeste 5105234 1.337,245
+Lucas do Rio Verde 5105259 3.659,859
+Luciára 5105309 4.145,262
+Marcelândia 5105580 12.294,144
+Matupá 5105606 5.151,850
+Mirassol d'Oeste 5105622 1.072,537
+Nobres 5105903 3.859,509
+Nortelândia 5106000 1.350,778
+Nossa Senhora do Livramento 5106109 5.192,568
+Nova Bandeirantes 5106158 9.531,206
+Nova Brasilândia 5106208 3.266,215
+Nova Canaã do Norte 5106216 5.968,991
+Nova Guarita 5108808 1.087,310
+Nova Lacerda 5106182 4.734,162
+Nova Marilândia 5108857 1.942,816
+Nova Maringá 5108907 11.512,471
+Nova Monte Verde 5108956 6.500,166
+Nova Mutum 5106224 9.537,923
+Nova Nazaré 5106174 4.038,699
+Nova Olímpia 5106232 1.567,669
+Nova Santa Helena 5106190 2.627,835
+Nova Ubiratã 5106240 12.694,974
+Nova Xavantina 5106257 5.526,733
+Novo Horizonte do Norte 5106273 938,389
+Novo Mundo 5106265 5.801,766
+Novo Santo Antônio 5106315 4.368,459
+Novo São Joaquim 5106281 5.022,477
+Paranaíta 5106299 4.830,143
+Paranatinga 5106307 24.177,568
+Pedra Preta 5106372 4.193,207
+Peixoto de Azevedo 5106422 14.398,661
+Planalto da Serra 5106455 2.454,108
+Poconé 5106505 17.260,861
+Pontal do Araguaia 5106653 2.755,095
+Ponte Branca 5106703 687,812
+Pontes e Lacerda 5106752 8.423,347
+Porto Alegre do Norte 5106778 3.977,416
+Porto dos Gaúchos 5106802 7.011,545
+Porto Esperidião 5106828 5.815,306
+Porto Estrela 5106851 2.065,241
+Poxoréo 5107008 6.923,227
+Primavera do Leste 5107040 5.472,207
+Querência 5107065 17.850,249
+Reserva do Cabaçal 5107156 370,820
+Ribeirão Cascalheira 5107180 11.356,472
+Ribeirãozinho 5107198 623,453
+Rio Branco 5107206 501,496
+Rondolândia 5107578 12.653,688
+Rondonópolis 5107602 4.165,232
+Rosário Oeste 5107701 8.802,047
+Salto do Céu 5107750 1.312,186
+Santa Carmem 5107248 3.920,277
+Santa Cruz do Xingu 5107743 5.625,401
+Santa Rita do Trivelato 5107768 3.345,196
+Santa Terezinha 5107776 6.450,838
+Santo Afonso 5107263 1.169,503
+Santo Antônio do Leverger 5107800 12.260,081
+Santo Antônio do Leste 5107792 3.596,798
+São Félix do Araguaia 5107859 16.848,221
+São José do Povo 5107297 444,106
+Área Territorial :
+UF – Mato Grosso – MT - 51
+MUNICÍPIO CODMUNIC ÁREA (km²)
+São José do Rio Claro 5107305 5.057,854
+São José do Xingu 5107354 7.463,654
+São José dos Quatro Marcos 5107107 1.280,846
+São Pedro da Cipa 5107404 344,360
+Sapezal 5107875 13.597,506
+Serra Nova Dourada 5107883 1.479,893
+Sinop 5107909 3.194,339
+Sorriso 5107925 9.345,755
+Tabaporã 5107941 8.225,389
+Tangará da Serra 5107958 11.565,976
+Tapurah 5108006 11.600,132
+Terra Nova do Norte 5108055 2.302,332
+Tesouro 5108105 4.017,269
+Torixoréu 5108204 2.397,925
+União do Sul 5108303 4.581,121
+Vale de São Domingos 5108352 2.001,347
+Várzea Grande 5108402 938,057
+Vera 5108501 2.950,868
+Vila Bela da Santíssima Trindade 5105507 13.630,948
+Vila Rica 5108600 7.433,445

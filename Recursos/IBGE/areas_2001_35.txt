@@ -1,0 +1,681 @@
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA
+RESOLUÇÃO Nº 05 , DE 10 DE OUTUBRO DE 2002
+Área Territorial
+: UF – São Paulo – SP - 35
+MUNICÍPIO CODMUNIC ÁREA (km²)
+SÃO PAULO 248.209,426
+Adamantina 3500105 411,781
+Adolfo 3500204 210,843
+Aguaí 3500303 473,365
+Águas da Prata 3500402 142,588
+Águas de Lindóia 3500501 60,000
+Águas de Santa Bárbara 3500550 408,471
+Águas de São Pedro 3500600 3,640
+Agudos 3500709 967,591
+Alambari 3500758 159,190
+Alfredo Marcondes 3500808 119,504
+Altair 3500907 316,088
+Altinópolis 3501004 929,426
+Alto Alegre 3501103 318,216
+Alumínio 3501152 83,739
+Álvares Florence 3501202 361,844
+Álvares Machado 3501301 346,283
+Álvaro de Carvalho 3501400 152,623
+Alvinlândia 3501509 85,040
+Americana 3501608 133,630
+Américo Brasiliense 3501707 123,429
+Américo de Campos 3501806 253,849
+Amparo 3501905 446,009
+Analândia 3502002 326,630
+Andradina 3502101 960,095
+Angatuba 3502200 1.028,702
+Anhembi 3502309 736,463
+Anhumas 3502408 320,926
+Aparecida 3502507 120,939
+Aparecida d'Oeste 3502606 179,069
+Apiaí 3502705 968,841
+Araçariguama 3502754 146,331
+Araçatuba 3502804 1.167,311
+Araçoiaba da Serra 3502903 255,550
+Aramina 3503000 202,704
+Arandu 3503109 286,328
+Arapeí 3503158 155,707
+Araraquara 3503208 1.005,968
+Araras 3503307 643,457
+Arco-Íris 3503356 263,214
+Arealva 3503406 506,465
+Areias 3503505 306,566
+Areiópolis 3503604 85,947
+Ariranha 3503703 133,112
+Artur Nogueira 3503802 177,752
+Arujá 3503901 97,448
+Aspásia 3503950 69,394
+Assis 3504008 461,705
+Atibaia 3504107 478,101
+Auriflama 3504206 432,902
+Avaí 3504305 542,157
+Avanhandava 3504404 340,338
+Avaré 3504503 1.216,640
+Bady Bassitt 3504602 109,587
+Balbinos 3504701 90,858
+Bálsamo 3504800 150,410
+Bananal 3504909 616,320
+Barão de Antonina 3505005 154,922
+Área Territorial
+: UF – São Paulo – SP - 35
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Barbosa 3505104 205,131
+Bariri 3505203 440,600
+Barra Bonita 3505302 150,178
+Barra do Chapéu 3505351 407,286
+Barra do Turvo 3505401 1.007,285
+Barretos 3505500 1.563,611
+Barrinha 3505609 146,567
+Barueri 3505708 64,167
+Bastos 3505807 170,454
+Batatais 3505906 850,718
+Bauru 3506003 673,488
+Bebedouro 3506102 682,511
+Bento de Abreu 3506201 301,848
+Bernardino de Campos 3506300 244,018
+Bertioga 3506359 491,701
+Bilac 3506409 157,278
+Birigui 3506508 530,651
+Biritiba-Mirim 3506607 316,717
+Boa Esperança do Sul 3506706 691,017
+Bocaina 3506805 364,044
+Bofete 3506904 653,360
+Boituva 3507001 249,014
+Bom Jesus dos Perdões 3507100 108,513
+Bom Sucesso de Itararé 3507159 133,221
+Borá 3507209 118,669
+Boracéia 3507308 120,796
+Borborema 3507407 552,604
+Borebi 3507456 348,116
+Botucatu 3507506 1.482,874
+Bragança Paulista 3507605 513,589
+Braúna 3507704 195,516
+Brejo Alegre 3507753 104,832
+Brodowski 3507803 279,804
+Brotas 3507902 1.101,468
+Buri 3508009 1.194,977
+Buritama 3508108 326,638
+Buritizal 3508207 266,271
+Cabrália Paulista 3508306 239,210
+Cabreúva 3508405 259,807
+Caçapava 3508504 369,907
+Cachoeira Paulista 3508603 287,837
+Caconde 3508702 470,487
+Cafelândia 3508801 919,860
+Caiabu 3508900 251,949
+Caieiras 3509007 95,894
+Caiuá 3509106 535,522
+Cajamar 3509205 128,356
+Cajati 3509254 454,925
+Cajobi 3509304 176,786
+Cajuru 3509403 660,687
+Campina do Monte Alegre 3509452 184,077
+Campinas 3509502 795,697
+Campo Limpo Paulista 3509601 80,048
+Campos do Jordão 3509700 289,512
+Campos Novos Paulista 3509809 484,577
+Cananéia 3509908 1.242,010
+Canas 3509957 53,494
+Cândido Mota 3510005 596,290
+Cândido Rodrigues 3510104 69,523
+Canitar 3510153 57,380
+Capão Bonito 3510203 1.641,043
+Área Territorial
+: UF – São Paulo – SP - 35
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Capela do Alto 3510302 169,981
+Capivari 3510401 323,198
+Caraguatatuba 3510500 483,950
+Carapicuíba 3510609 34,967
+Cardoso 3510708 637,571
+Casa Branca 3510807 865,544
+Cássia dos Coqueiros 3510906 190,916
+Castilho 3511003 1.062,653
+Catanduva 3511102 292,240
+Catiguá 3511201 145,431
+Cedral 3511300 197,619
+Cerqueira César 3511409 503,640
+Cerquilho 3511508 127,758
+Cesário Lange 3511607 190,189
+Charqueada 3511706 175,998
+Chavantes 3557204 188,212
+Clementina 3511904 168,739
+Colina 3512001 423,963
+Colômbia 3512100 729,252
+Conchal 3512209 183,826
+Conchas 3512308 468,243
+Cordeirópolis 3512407 137,337
+Coroados 3512506 246,544
+Coronel Macedo 3512605 304,505
+Corumbataí 3512704 278,143
+Cosmópolis 3512803 154,730
+Cosmorama 3512902 441,326
+Cotia 3513009 323,891
+Cravinhos 3513108 311,341
+Cristais Paulista 3513207 385,460
+Cruzália 3513306 149,173
+Cruzeiro 3513405 304,572
+Cubatão 3513504 142,281
+Cunha 3513603 1.407,172
+Descalvado 3513702 755,226
+Diadema 3513801 30,650
+Dirce Reis 3513850 88,400
+Divinolândia 3513900 222,257
+Dobrada 3514007 150,085
+Dois Córregos 3514106 632,559
+Dolcinópolis 3514205 78,144
+Dourado 3514304 205,981
+Dracena 3514403 488,044
+Duartina 3514502 264,281
+Dumont 3514601 110,866
+Echaporã 3514700 514,587
+Eldorado 3514809 1.656,728
+Elias Fausto 3514908 201,471
+Elisiário 3514924 92,708
+Embaúba 3514957 83,699
+Embu 3515004 70,079
+Embu-Guaçu 3515103 155,036
+Emilianópolis 3515129 223,311
+Engenheiro Coelho 3515152 109,798
+Espírito Santo do Pinhal 3515186 390,413
+Espírito Santo do Turvo 3515194 191,294
+Estiva Gerbi 3557303 73,723
+Estrela d'Oeste 3515202 296,261
+Estrela do Norte 3515301 263,273
+Euclides da Cunha Paulista 3515350 577,122
+Fartura 3515400 429,464
+Área Territorial
+: UF – São Paulo – SP - 35
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Fernando Prestes 3515608 170,112
+Fernandópolis 3515509 549,551
+Fernão 3515657 100,297
+Ferraz de Vasconcelos 3515707 30,071
+Flora Rica 3515806 225,115
+Floreal 3515905 203,661
+Flórida Paulista 3516002 524,910
+Florínia 3516101 227,359
+Franca 3516200 607,333
+Francisco Morato 3516309 49,164
+Franco da Rocha 3516408 133,931
+Gabriel Monteiro 3516507 138,533
+Gália 3516606 355,794
+Garça 3516705 555,771
+Gastão Vidigal 3516804 180,818
+Gavião Peixoto 3516853 243,711
+General Salgado 3516903 493,276
+Getulina 3517000 675,428
+Glicério 3517109 274,124
+Guaiçara 3517208 269,300
+Guaimbê 3517307 217,448
+Guaíra 3517406 1.258,671
+Guapiaçu 3517505 325,028
+Guapiara 3517604 407,619
+Guará 3517703 362,617
+Guaraçaí 3517802 568,397
+Guaraci 3517901 638,820
+Guarani d'Oeste 3518008 84,534
+Guarantã 3518107 461,795
+Guararapes 3518206 956,580
+Guararema 3518305 270,496
+Guaratinguetá 3518404 751,443
+Guareí 3518503 566,260
+Guariba 3518602 270,454
+Guarujá 3518701 142,589
+Guarulhos 3518800 318,014
+Guatapará 3518859 412,637
+Guzolândia 3518909 253,669
+Herculândia 3519006 365,136
+Holambra 3519055 64,277
+Hortolândia 3519071 62,224
+Iacanga 3519105 548,029
+Iacri 3519204 324,029
+Iaras 3519253 401,371
+Ibaté 3519303 289,544
+Ibirá 3519402 270,748
+Ibirarema 3519501 228,453
+Ibitinga 3519600 688,676
+Ibiúna 3519709 1.059,689
+Icém 3519808 363,132
+Iepê 3519907 596,066
+Igaraçu do Tietê 3520004 96,618
+Igarapava 3520103 467,112
+Igaratá 3520202 293,322
+Iguape 3520301 1.980,916
+Ilha Comprida 3520426 188,530
+Ilha Solteira 3520442 659,379
+Ilhabela 3520400 348,300
+Indaiatuba 3520509 310,564
+Indiana 3520608 127,597
+Indiaporã 3520707 279,466
+Área Territorial
+: UF – São Paulo – SP - 35
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Inúbia Paulista 3520806 86,710
+Ipaussu 3520905 209,141
+Iperó 3521002 170,940
+Ipeúna 3521101 190,534
+Ipiguá 3521150 135,617
+Iporanga 3521200 1.160,293
+Ipuã 3521309 465,602
+Iracemápolis 3521408 115,947
+Irapuã 3521507 257,423
+Irapuru 3521606 213,403
+Itaberá 3521705 1.082,851
+Itaí 3521804 1.112,267
+Itajobi 3521903 501,842
+Itaju 3522000 228,777
+Itanhaém 3522109 599,017
+Itaóca 3522158 182,495
+Itapecerica da Serra 3522208 151,458
+Itapetininga 3522307 1.792,079
+Itapeva 3522406 1.826,754
+Itapevi 3522505 91,353
+Itapira 3522604 517,504
+Itapirapuã Paulista 3522653 406,306
+Itápolis 3522703 997,126
+Itaporanga 3522802 507,737
+Itapuí 3522901 139,666
+Itapura 3523008 307,265
+Itaquaquecetuba 3523107 81,777
+Itararé 3523206 1.003,576
+Itariri 3523305 272,777
+Itatiba 3523404 322,522
+Itatinga 3523503 979,872
+Itirapina 3523602 564,261
+Itirapuã 3523701 161,490
+Itobi 3523800 138,610
+Itu 3523909 639,981
+Itupeva 3524006 200,516
+Ituverava 3524105 697,760
+Jaborandi 3524204 274,219
+Jaboticabal 3524303 706,499
+Jacareí 3524402 460,073
+Jaci 3524501 144,441
+Jacupiranga 3524600 708,382
+Jaguariúna 3524709 142,437
+Jales 3524808 368,757
+Jambeiro 3524907 183,758
+Jandira 3525003 17,523
+Jardinópolis 3525102 503,355
+Jarinu 3525201 207,671
+Jaú 3525300 688,337
+Jeriquara 3525409 140,992
+Joanópolis 3525508 374,583
+João Ramalho 3525607 416,035
+José Bonifácio 3525706 858,641
+Júlio Mesquita 3525805 128,209
+Jumirim 3525854 56,738
+Jundiaí 3525904 431,969
+Junqueirópolis 3526001 582,836
+Juquiá 3526100 820,961
+Juquitiba 3526209 521,598
+Lagoinha 3526308 255,924
+Laranjal Paulista 3526407 386,763
+Área Territorial
+: UF – São Paulo – SP - 35
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Lavínia 3526506 538,523
+Lavrinhas 3526605 166,860
+Leme 3526704 403,077
+Lençóis Paulista 3526803 803,860
+Limeira 3526902 580,983
+Lindóia 3527009 48,600
+Lins 3527108 571,442
+Lorena 3527207 413,776
+Lourdes 3527256 113,833
+Louveira 3527306 55,349
+Lucélia 3527405 314,455
+Lucianópolis 3527504 190,908
+Luís Antônio 3527603 597,617
+Luiziânia 3527702 167,008
+Lupércio 3527801 155,025
+Lutécia 3527900 474,627
+Macatuba 3528007 226,182
+Macaubal 3528106 248,649
+Macedônia 3528205 329,103
+Magda 3528304 312,085
+Mairinque 3528403 209,757
+Mairiporã 3528502 321,480
+Manduri 3528601 228,866
+Marabá Paulista 3528700 917,119
+Maracaí 3528809 533,024
+Marapoama 3528858 113,345
+Mariápolis 3528908 186,098
+Marília 3529005 1.170,054
+Marinópolis 3529104 78,095
+Martinópolis 3529203 1.253,158
+Matão 3529302 527,012
+Mauá 3529401 62,293
+Mendonça 3529500 194,974
+Meridiano 3529609 228,158
+Mesópolis 3529658 149,714
+Miguelópolis 3529708 826,889
+Mineiros do Tietê 3529807 211,892
+Mira Estrela 3530003 217,116
+Miracatu 3529906 1.000,736
+Mirandópolis 3530102 918,269
+Mirante do Paranapanema 3530201 1.237,847
+Mirassol 3530300 243,802
+Mirassolândia 3530409 166,421
+Mococa 3530508 854,074
+Mogi Guaçu 3530706 813,138
+Moji das Cruzes 3530607 714,156
+Moji-Mirim 3530805 499,115
+Mombuca 3530904 133,198
+Monções 3531001 104,494
+Mongaguá 3531100 143,171
+Monte Alegre do Sul 3531209 110,860
+Monte Alto 3531308 347,119
+Monte Aprazível 3531407 482,934
+Monte Azul Paulista 3531506 263,492
+Monte Castelo 3531605 233,161
+Monte Mor 3531803 240,787
+Monteiro Lobato 3531704 332,740
+Morro Agudo 3531902 1.386,176
+Morungaba 3532009 146,496
+Motuca 3532058 229,426
+Murutinga do Sul 3532108 248,278
+Área Territorial
+: UF – São Paulo – SP - 35
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Nantes 3532157 285,415
+Narandiba 3532207 358,139
+Natividade da Serra 3532306 832,606
+Nazaré Paulista 3532405 326,542
+Neves Paulista 3532504 232,143
+Nhandeara 3532603 437,420
+Nipoã 3532702 138,048
+Nova Aliança 3532801 217,829
+Nova Campina 3532827 385,328
+Nova Canaã Paulista 3532843 124,092
+Nova Castilho 3532868 183,799
+Nova Europa 3532900 160,876
+Nova Granada 3533007 531,855
+Nova Guataporanga 3533106 34,116
+Nova Independência 3533205 265,282
+Nova Luzitânia 3533304 73,978
+Nova Odessa 3533403 73,298
+Novais 3533254 116,929
+Novo Horizonte 3533502 932,888
+Nuporanga 3533601 346,982
+Ocauçu 3533700 300,276
+Óleo 3533809 197,974
+Olímpia 3533908 803,509
+Onda Verde 3534005 243,435
+Oriente 3534104 217,819
+Orindiúva 3534203 248,299
+Orlândia 3534302 296,431
+Osasco 3534401 64,935
+Oscar Bressane 3534500 221,429
+Osvaldo Cruz 3534609 247,941
+Ourinhos 3534708 296,203
+Ouro Verde 3534807 266,452
+Ouroeste 3534757 287,549
+Pacaembu 3534906 339,722
+Palestina 3535002 695,358
+Palmares Paulista 3535101 82,228
+Palmeira d'Oeste 3535200 320,086
+Palmital 3535309 549,040
+Panorama 3535408 353,137
+Paraguaçu Paulista 3535507 1.001,094
+Paraibuna 3535606 809,794
+Paraíso 3535705 154,558
+Paranapanema 3535804 1.019,841
+Paranapuã 3535903 139,514
+Parapuã 3536000 365,224
+Pardinho 3536109 210,036
+Pariquera-Açu 3536208 359,691
+Parisi 3536257 84,509
+Patrocínio Paulista 3536307 600,107
+Paulicéia 3536406 373,891
+Paulínia 3536505 139,332
+Paulistânia 3536570 256,553
+Paulo de Faria 3536604 740,833
+Pederneiras 3536703 729,179
+Pedra Bela 3536802 157,184
+Pedranópolis 3536901 259,992
+Pedregulho 3537008 701,886
+Pedreira 3537107 109,710
+Pedrinhas Paulista 3537156 152,173
+Pedro de Toledo 3537206 671,113
+Penápolis 3537305 708,500
+Área Territorial
+: UF – São Paulo – SP - 35
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Pereira Barreto 3537404 979,960
+Pereiras 3537503 222,156
+Peruíbe 3537602 326,214
+Piacatu 3537701 232,543
+Piedade 3537800 745,536
+Pilar do Sul 3537909 682,395
+Pindamonhangaba 3538006 730,172
+Pindorama 3538105 184,525
+Pinhalzinho 3538204 154,948
+Piquerobi 3538303 482,506
+Piquete 3538501 175,881
+Piracaia 3538600 384,729
+Piracicaba 3538709 1.369,511
+Piraju 3538808 505,225
+Pirajuí 3538907 819,432
+Pirangi 3539004 215,791
+Pirapora do Bom Jesus 3539103 108,257
+Pirapozinho 3539202 480,795
+Pirassununga 3539301 726,942
+Piratininga 3539400 397,207
+Pitangueiras 3539509 429,577
+Planalto 3539608 289,538
+Platina 3539707 327,826
+Poá 3539806 17,179
+Poloni 3539905 134,766
+Pompéia 3540002 786,406
+Pongaí 3540101 183,382
+Pontal 3540200 355,262
+Pontalinda 3540259 210,257
+Pontes Gestal 3540309 217,134
+Populina 3540408 315,432
+Porangaba 3540507 266,565
+Porto Feliz 3540606 556,563
+Porto Ferreira 3540705 243,906
+Potim 3540754 44,651
+Potirendaba 3540804 342,388
+Pracinha 3540853 63,047
+Pradópolis 3540903 167,202
+Praia Grande 3541000 149,079
+Pratânia 3541059 179,817
+Presidente Alves 3541109 288,570
+Presidente Bernardes 3541208 753,743
+Presidente Epitácio 3541307 1.281,779
+Presidente Prudente 3541406 562,107
+Presidente Venceslau 3541505 755,010
+Promissão 3541604 782,145
+Quadra 3541653 205,033
+Quatá 3541703 652,744
+Queiroz 3541802 235,496
+Queluz 3541901 249,408
+Quintana 3542008 319,759
+Rafard 3542107 132,471
+Rancharia 3542206 1.584,726
+Redenção da Serra 3542305 309,111
+Regente Feijó 3542404 265,087
+Reginópolis 3542503 409,914
+Registro 3542602 716,331
+Restinga 3542701 245,599
+Ribeira 3542800 335,029
+Ribeirão Bonito 3542909 471,498
+Ribeirão Branco 3543006 697,813
+Área Territorial
+: UF – São Paulo – SP - 35
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Ribeirão Corrente 3543105 148,456
+Ribeirão do Sul 3543204 203,356
+Ribeirão dos Índios 3543238 196,991
+Ribeirão Grande 3543253 332,071
+Ribeirão Pires 3543303 99,175
+Ribeirão Preto 3543402 650,366
+Rifaina 3543600 171,583
+Rincão 3543709 313,422
+Rinópolis 3543808 358,500
+Rio Claro 3543907 498,008
+Rio das Pedras 3544004 226,939
+Rio Grande da Serra 3544103 36,671
+Riolândia 3544202 630,681
+Riversul 3543501 386,204
+Rosana 3544251 741,216
+Roseira 3544301 130,190
+Rubiácea 3544400 236,907
+Rubinéia 3544509 234,381
+Sabino 3544608 311,663
+Sagres 3544707 148,931
+Sales 3544806 308,663
+Sales Oliveira 3544905 303,752
+Salesópolis 3545001 425,842
+Salmourão 3545100 172,745
+Saltinho 3545159 101,404
+Salto 3545209 134,258
+Salto de Pirapora 3545308 280,312
+Salto Grande 3545407 189,072
+Sandovalina 3545506 455,393
+Santa Adélia 3545605 331,015
+Santa Albertina 3545704 274,277
+Santa Bárbara d'Oeste 3545803 271,492
+Santa Branca 3546009 275,004
+Santa Clara d'Oeste 3546108 183,399
+Santa Cruz da Conceição 3546207 149,432
+Santa Cruz da Esperança 3546256 147,819
+Santa Cruz das Palmeiras 3546306 295,698
+Santa Cruz do Rio Pardo 3546405 1.116,377
+Santa Ernestina 3546504 134,964
+Santa Fé do Sul 3546603 208,245
+Santa Gertrudes 3546702 97,694
+Santa Isabel 3546801 361,494
+Santa Lúcia 3546900 152,314
+Santa Maria da Serra 3547007 256,481
+Santa Mercedes 3547106 166,868
+Santa Rita d'Oeste 3547403 210,265
+Santa Rita do Passa Quatro 3547502 752,993
+Santa Rosa de Viterbo 3547601 289,669
+Santa Salete 3547650 79,168
+Santana da Ponte Pensa 3547205 129,909
+Santana de Parnaíba 3547304 183,816
+Santo Anastácio 3547700 552,546
+Santo André 3547809 174,840
+Santo Antônio da Alegria 3547908 309,677
+Santo Antônio de Posse 3548005 154,113
+Santo Antônio do Aracanguá 3548054 1.306,082
+Santo Antônio do Jardim 3548104 109,449
+Santo Antônio do Pinhal 3548203 132,886
+Santo Expedito 3548302 93,913
+Santópolis do Aguapeí 3548401 127,545
+Santos 3548500 280,300
+Área Territorial
+: UF – São Paulo – SP - 35
+MUNICÍPIO CODMUNIC ÁREA (km²)
+São Bento do Sapucaí 3548609 252,200
+São Bernardo do Campo 3548708 406,180
+São Caetano do Sul 3548807 15,360
+São Carlos 3548906 1.140,920
+São Francisco 3549003 75,317
+São João da Boa Vista 3549102 516,146
+São João das Duas Pontes 3549201 129,532
+São João de Iracema 3549250 177,906
+São João do Pau d'Alho 3549300 117,845
+São Joaquim da Barra 3549409 412,271
+São José da Bela Vista 3549508 276,964
+São José do Barreiro 3549607 570,629
+São José do Rio Pardo 3549706 419,017
+São José do Rio Preto 3549805 431,307
+São José dos Campos 3549904 1.099,613
+São Lourenço da Serra 3549953 186,709
+São Luís do Paraitinga 3550001 617,148
+São Manuel 3550100 651,041
+São Miguel Arcanjo 3550209 930,012
+São Paulo 3550308 1.522,986
+São Pedro 3550407 618,204
+São Pedro do Turvo 3550506 731,016
+São Roque 3550605 307,553
+São Sebastião 3550704 403,336
+São Sebastião da Grama 3550803 252,181
+São Simão 3550902 617,964
+São Vicente 3551009 148,424
+Sarapuí 3551108 354,463
+Sarutaiá 3551207 141,511
+Sebastianópolis do Sul 3551306 168,114
+Serra Azul 3551405 282,846
+Serra Negra 3551603 203,010
+Serrana 3551504 125,744
+Sertãozinho 3551702 402,803
+Sete Barras 3551801 1.052,106
+Severínia 3551900 140,395
+Silveiras 3552007 414,698
+Socorro 3552106 448,074
+Sorocaba 3552205 449,122
+Sud Mennucci 3552304 590,682
+Sumaré 3552403 153,033
+Suzanápolis 3552551 327,889
+Suzano 3552502 205,865
+Tabapuã 3552601 345,603
+Tabatinga 3552700 366,456
+Taboão da Serra 3552809 20,478
+Taciba 3552908 608,310
+Taguaí 3553005 145,800
+Taiaçu 3553104 106,932
+Taiúva 3553203 132,157
+Tambaú 3553302 561,566
+Tanabi 3553401 745,233
+Tapiraí 3553500 755,293
+Tapiratiba 3553609 220,575
+Taquaral 3553658 54,208
+Taquaritinga 3553708 594,224
+Taquarituba 3553807 447,085
+Taquarivaí 3553856 232,963
+Tarabai 3553906 197,221
+Tarumã 3553955 303,503
+Tatuí 3554003 524,156
+Área Territorial
+: UF – São Paulo – SP - 35
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Taubaté 3554102 625,916
+Tejupá 3554201 296,343
+Teodoro Sampaio 3554300 1.556,670
+Terra Roxa 3554409 219,894
+Tietê 3554508 392,509
+Timburi 3554607 197,220
+Torre de Pedra 3554656 71,303
+Torrinha 3554706 311,172
+Trabiju 3554755 63,378
+Tremembé 3554805 192,416
+Três Fronteiras 3554904 152,698
+Tuiuti 3554953 126,465
+Tupã 3555000 629,108
+Tupi Paulista 3555109 244,646
+Turiúba 3555208 153,085
+Turmalina 3555307 147,356
+Ubarana 3555356 210,239
+Ubatuba 3555406 712,116
+Ubirajara 3555505 283,326
+Uchoa 3555604 252,213
+União Paulista 3555703 79,148
+Urânia 3555802 209,273
+Uru 3555901 147,581
+Urupês 3556008 324,785
+Valentim Gentil 3556107 149,208
+Valinhos 3556206 148,528
+Valparaíso 3556305 858,757
+Vargem 3556354 142,596
+Vargem Grande do Sul 3556404 266,530
+Vargem Grande Paulista 3556453 33,512
+Várzea Paulista 3556503 34,627
+Vera Cruz 3556602 247,854
+Vinhedo 3556701 81,742
+Viradouro 3556800 219,044
+Vista Alegre do Alto 3556909 95,297
+Vitória Brasil 3556958 49,818
+Votorantim 3557006 183,998
+Votuporanga 3557105 421,686
+Zacarias 3557154 318,800

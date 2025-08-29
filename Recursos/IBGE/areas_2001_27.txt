@@ -1,0 +1,111 @@
+Instituto BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA
+RESOLUÇÃO Nº 05 , DE 10 DE OUTUBRO DE 2002
+Área Territorial :
+UF – Alagoas – AL – 27
+MUNICÍPIO CODMUNIC ÁREA (km²)
+ALAGOAS 27.767,661
+Água Branca 2700102 454,719
+Anadia 2700201 189,471
+Arapiraca 2700300 351,475
+Atalaia 2700409 531,983
+Barra de Santo Antônio 2700508 137,977
+Barra de São Miguel 2700607 76,612
+Batalha 2700706 321,131
+Belém 2700805 48,196
+Belo Monte 2700904 334,047
+Boca da Mata 2701001 186,568
+Branquinha 2701100 191,011
+Cacimbinhas 2701209 272,978
+Cajueiro 2701308 124,344
+Campestre 2701357 53,988
+Campo Alegre 2701407 308,058
+Campo Grande 2701506 166,404
+Canapi 2701605 571,855
+Capela 2701704 205,283
+Carneiros 2701803 113,058
+Chã Preta 2701902 200,802
+Coité do Nóia 2702009 88,488
+Colônia Leopoldina 2702108 287,459
+Coqueiro Seco 2702207 40,262
+Coruripe 2702306 912,716
+Craíbas 2702355 275,325
+Delmiro Gouveia 2702405 605,395
+Dois Riachos 2702504 140,472
+Estrela de Alagoas 2702553 264,203
+Feira Grande 2702603 155,974
+Feliz Deserto 2702702 91,824
+Flexeiras 2702801 315,791
+Girau do Ponciano 2702900 502,150
+Ibateguara 2703007 261,277
+Igaci 2703106 333,586
+Igreja Nova 2703205 428,550
+Inhapi 2703304 374,161
+Jacaré dos Homens 2703403 142,344
+Jacuípe 2703502 216,762
+Japaratinga 2703601 85,502
+Jaramataia 2703700 103,710
+Jequiá da Praia 2703759 338,600
+Joaquim Gomes 2703809 238,595
+Jundiá 2703908 119,713
+Junqueiro 2704005 254,067
+Lagoa da Canoa 2704104 102,831
+Limoeiro de Anadia 2704203 315,668
+Maceió 2704302 510,655
+Major Isidoro 2704401 453,893
+Mar Vermelho 2704906 91,538
+Maragogi 2704500 333,733
+Maravilha 2704609 279,462
+Marechal Deodoro 2704708 333,548
+Maribondo 2704807 171,279
+Mata Grande 2705002 908,264
+Matriz de Camaragibe 2705101 330,061
+Messias 2705200 112,856
+Minador do Negrão 2705309 164,476
+Área Territorial :
+UF – Alagoas – AL – 27
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Monteirópolis 2705408 86,097
+Murici 2705507 423,983
+Novo Lino 2705606 182,288
+Olho d'Água das Flores 2705705 183,440
+Olho d'Água do Casado 2705804 322,945
+Olho d'Água Grande 2705903 118,508
+Olivença 2706000 172,957
+Ouro Branco 2706109 204,841
+Palestina 2706208 48,884
+Palmeira dos Índios 2706307 460,610
+Pão de Açúcar 2706406 658,955
+Pariconha 2706422 260,858
+Paripueira 2706448 92,712
+Passo de Camaragibe 2706505 187,197
+Paulo Jacinto 2706604 107,943
+Penedo 2706703 689,269
+Piaçabuçu 2706802 239,989
+Pilar 2706901 248,975
+Pindoba 2707008 83,218
+Piranhas 2707107 407,647
+Poço das Trincheiras 2707206 302,916
+Porto Calvo 2707305 260,158
+Porto de Pedras 2707404 266,236
+Porto Real do Colégio 2707503 240,310
+Quebrangulo 2707602 299,922
+Rio Largo 2707701 309,425
+Roteiro 2707800 129,288
+Santa Luzia do Norte 2707909 28,541
+Santana do Ipanema 2708006 437,847
+Santana do Mundaú 2708105 223,615
+São Brás 2708204 139,884
+São José da Laje 2708303 264,674
+São José da Tapera 2708402 519,626
+São Luís do Quitunde 2708501 404,005
+São Miguel dos Campos 2708600 360,846
+São Miguel dos Milagres 2708709 65,189
+São Sebastião 2708808 305,746
+Satuba 2708907 42,559
+Senador Rui Palmeira 2708956 359,667
+Tanque d'Arca 2709004 155,959
+Taquarana 2709103 166,477
+Teotônio Vilela 2709152 297,875
+Traipu 2709202 697,843
+União dos Palmares 2709301 427,825
+Viçosa 2709400 354,762

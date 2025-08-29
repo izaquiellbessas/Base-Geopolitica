@@ -1,0 +1,84 @@
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA
+RESOLUÇÃO Nº 05 , DE 10 DE OUTUBRO DE 2002
+Área Territorial
+UF – Sergipe – SE – 28
+MUNICÍPIO CODMUNIC ÁREA (km²)
+SERGIPE 21.910,348
+Amparo de São Francisco 2800100 35,173
+Aquidabã 2800209 357,003
+Aracaju 2800308 174,053
+Arauá 2800407 192,723
+Areia Branca 2800506 128,392
+Barra dos Coqueiros 2800605 91,101
+Boquim 2800670 214,566
+Brejo Grande 2800704 149,952
+Campo do Brito 2801009 201,724
+Canhoba 2801108 170,052
+Canindé de São Francisco 2801207 902,251
+Capela 2801306 440,716
+Carira 2801405 636,404
+Carmópolis 2801504 45,905
+Cedro de São João 2801603 79,594
+Cristinápolis 2801702 253,867
+Cumbe 2801900 129,196
+Divina Pastora 2802007 92,249
+Estância 2802106 642,306
+Feira Nova 2802205 188,012
+Frei Paulo 2802304 399,439
+Gararu 2802403 644,722
+General Maynard 2802502 20,221
+Gracho Cardoso 2802601 242,148
+Ilha das Flores 2802700 52,816
+Indiaroba 2802809 313,576
+Itabaiana 2802908 336,685
+Itabaianinha 2803005 493,310
+Itabi 2803104 195,086
+Itaporanga d'Ajuda 2803203 757,283
+Japaratuba 2803302 359,513
+Japoatã 2803401 420,491
+Lagarto 2803500 969,226
+Laranjeiras 2803609 162,538
+Macambira 2803708 137,366
+Malhada dos Bois 2803807 62,372
+Malhador 2803906 100,940
+Maruim 2804003 94,293
+Moita Bonita 2804102 95,820
+Monte Alegre de Sergipe 2804201 407,409
+Muribeca 2804300 79,147
+Neópolis 2804409 259,334
+Nossa Senhora Aparecida 2804458 340,378
+Nossa Senhora da Glória 2804508 756,485
+Nossa Senhora das Dores 2804607 471,001
+Nossa Senhora de Lourdes 2804706 80,421
+Nossa Senhora do Socorro 2804805 157,515
+Pacatuba 2804904 363,761
+Pedra Mole 2805000 81,616
+Pedrinhas 2805109 33,942
+Pinhão 2805208 155,886
+Pirambu 2805307 218,084
+Poço Redondo 2805406 1.212,461
+Poço Verde 2805505 430,973
+Porto da Folha 2805604 896,937
+Propriá 2805703 95,041
+Riachão do Dantas 2805802 528,256
+Área Territorial
+UF – Sergipe – SE – 28
+MUNICÍPIO CODMUNIC ÁREA (km²)
+Riachuelo 2805901 78,480
+Ribeirópolis 2806008 261,548
+Rosário do Catete 2806107 105,413
+Salgado 2806206 248,453
+Santa Luzia do Itanhy 2806305 329,496
+Santa Rosa de Lima 2806503 67,607
+Santana do São Francisco 2806404 46,340
+Santo Amaro das Brotas 2806602 234,654
+São Cristóvão 2806701 437,437
+São Domingos 2806800 102,470
+São Francisco 2806909 82,565
+São Miguel do Aleixo 2807006 144,543
+Simão Dias 2807105 559,615
+Siriri 2807204 168,956
+Telha 2807303 49,452
+Tobias Barreto 2807402 1.032,829
+Tomar do Geru 2807501 287,658
+Umbaúba 2807600 121,101
